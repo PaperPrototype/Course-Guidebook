@@ -5,7 +5,7 @@ This is not meant to be an exhaustive list of guidelines but a reference for tho
 ## OMG_GUIDELINE_001
 **INTRODUCING NEW CONCEPTS**
 
-When introducing a new concept don't use any technical jargon or concepts. Instead use plain english and simple words. Be as concise as possible. Don't be vaque give drawings and explain things. Once the student understand it tell them something like
+When introducing a new concept don't use any technical jargon or concepts. Instead use plain english and simple words. Be as concise as possible. Don't be vague, give drawings and explain things. Once the student understand it tell them something like
 "...mesh format a triangle is made using 3 positions. The correct term for "positions in space" would be, vertices."
 
 
