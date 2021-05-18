@@ -41,4 +41,4 @@ As stated before opinions aren't necessarily useful. This is not true of experie
 ## OMG_GUIDELINE_006
 **WRITE NOTES FOR STUDENTS**
 
-Every time you introduce a new concept add it to the notes. Be super concise and short. Notes are mean't for those needing a refresher. Notes should use jargo, as long as its defined in the Vocab section of the notes and was discussed during the lecture.
+Every time you introduce a new concept add it to the notes. Be super concise and short. Notes are for students needing a refresher. Notes should use jargon, as long as its defined in the Vocab section of the notes and was discussed during the lecture.
