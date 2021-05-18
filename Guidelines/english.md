@@ -44,6 +44,6 @@ As stated before opinions aren't necessarily useful. This is not true of experie
 Every time you introduce a new concept add it to the notes. Be super concise and short. Notes are for students needing a refresher. Notes should use jargon, as long as its defined in the Vocab section of the notes and was discussed during the lecture.
 
 ## OMG_GIUDELINE_007
-**MAKE MOTIVATING SCHEDULE FOR STUDENTS**
+**MAKE MOTIVATING SCHEDULE FOR STUDENT**
 
 All courses need t be borken up into weeks (started with week 0). This gives students a sense of accomplishment when they finish a "week" of work. Also since we aim to be college styled courses, this allows pople to have time for other things aside from taking the course. Using a set scheduling name helps students pace themselves and feel motivated.
