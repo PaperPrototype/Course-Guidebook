@@ -37,8 +37,36 @@ Be as concise and informative as possible while not skipping over stuff. Give in
 
 As stated before opinions aren't necessarily useful. This is not true of experience. Experience is **very** useful. Relaying experience is important but keep it short. Also you can link to blog posts for lengthy advice on complex stuff. Try medium.com for blogging its free and... very awesome.
 
-
 ## OMG_GUIDELINE_006
 **WRITE NOTES FOR STUDENTS**
 
 Every time you introduce a new concept add it to the notes. Be super concise and short. Notes are mean't for those needing a refresher. Notes should use jargo, as long as its defined in the Vocab section of the notes and was discussed during the lecture.
+
+## OMG_GUIDELINE_007
+**LEARN BY CONCEPT AND EXAMPLE**
+
+Don't try to pre-explain vague ideas or concepts, this will lose the students focus. Instead explain things as you have the student code them, or if the student is unfamilar with the concept use diagrams and examples before showing the code. This keeps students from getting bored. But also ensures they understand what you are teaching them.
+
+## OMG_GUIDELINE_008
+**CODE SNIPPET RULES**
+
+Any code snippets shown need to be in context. It can be confusing when you don't tell the student where that snippet is supposed to go. Also make sure to add `// ... snipping irrelevant code ... //` where code that has already been written is. For example
+
+```
+        m_vertices = new NativeArray<Vector3>(24 * Data.chunkSize * Data.chunkSize * Data.chunkSize / 2, Allocator.Temp);
+        m_triangles = new NativeArray<int>(36 * Data.chunkSize * Data.chunkSize * Data.chunkSize / 2, Allocator.Temp);
+```
+
+can be confusing compared to 
+
+```
+    private void Start()
+    {
+        m_vertices = new NativeArray<Vector3>(24 * Data.chunkSize * Data.chunkSize * Data.chunkSize / 2, Allocator.Temp);
+        m_triangles = new NativeArray<int>(36 * Data.chunkSize * Data.chunkSize * Data.chunkSize / 2, Allocator.Temp);
+    
+        // ... snipping irrelevant code ... //
+    }
+```
+
+The exception to the rule is when showing code that has already been shown, but that has only changed slightly.
