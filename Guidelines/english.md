@@ -115,5 +115,6 @@ If courses are broken up into weeks (started with week 0). Each week having one 
 
 
 ## COURSE_GUIDELINE_013
+**TUTORIALS ARE FUNNER THAN EXCERCISES**
 
 We've chosen to not have "excercies" instead at the end of each lecture there are fun Tutorials (in the folder called tutorials) that students can do after finishing the lecture. This is way funner than having course required excercises, it makes excercies feel like less of a chore and they are by default optional (since they are "Tutorials").
