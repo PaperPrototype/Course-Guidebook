@@ -93,7 +93,7 @@ When translating a course, use the english version as the standard for trnaslati
 
 
 ## COURSE_GUIDELINE_010
-**EXPLAIN THINGS NOW**
+**EXPLAIN THINGS AS MUCH AS POSSIBLE UP FRONT**
 
 When explaining a concept don't graze over "irrelevant" stuff and say "we'll explain this a couple lectures", or "this will make sense later". Explain it! **Use pictures** (a pictures worth 1000 words)! Using pictures will reduce the number of words the student has to read, and it makes the explenation much easier to understand. 
 
@@ -106,3 +106,14 @@ The goal is to prevent the student from using something without understanding it
 **EXPLAIN THINGS WELL THE FIRST TIME**
 
 When explaining something don't give the formal definition and then explain what that definition means. Instead take time to come up with a good explanation that expects no previous knowledge, explain like your telling your grandma. The idea is to prevent giving an explanation that doesn't make sense to a beginner for them to later understand it. This leads to demotivation "I don't understand" or "That made no sense to me".
+
+
+## COURSE_GIUDELINE_012
+**MAKE MOTIVATING SCHEDULE FOR STUDENT**
+
+If courses are broken up into weeks (started with week 0). Each week having one lecture and notes for the lecture. Then for each "week" have fun bonus tutorials written by anyone in the community! THis will give students a sense of accomplishment when they finish a "week" of work, and then can follow along with simple fun tutorials (and the tutorials will be able to be written with known pre-requisites, making writing the tutorials easier).
+
+
+## COURSE_GUIDELINE_013
+
+We've chosen to not have "excercies" instead at the end of each lecture there are fun Tutorials (in the folder called tutorials) that students can do after finishing the lecture. This is way funner than having course required excercises, it makes excercies feel like less of a chore and they are by default optional (since they are "Tutorials").
