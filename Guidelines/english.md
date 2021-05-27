@@ -1,13 +1,13 @@
 # Intro
-This is meant as reference for those making courses on Nanite3D. These guidelines are guides and tips not a set of rules, so if you have a better way to do something, then do it. Generally these guides have been taken from poeple like Elon Musk ("The biggest problem with education is we don't know why we are learning sonething" --Elon Musk) or are a result of frustrations the author(s) experienced during education.
+These guidelines are guides and tips not a set of rules, so if you have a better way to do something, then do it. Generally these guides have been taken from people like Elon Musk ("The biggest problem with education is we don't know why we are learning sonething" --Elon Musk) or are a result of frustrations the author(s) experienced during education that the want fixed.
 
-If a guideline is bad (we'll let you define "bad") then make a pull request to change it or make a new Issue.
+If a guideline is not clear or is redundant or hard to understand then make a new Issue so it can be fixed.
 
 
 ## COURSE_GUIDELINE_000
 **WHY AM I LEARNING THIS? HOW IS THIS USEFUL?**
 
-Make sure student how the thing your teaching them is useful. Explain why student is learning something in the Intro of a lecture or course, or whenever teaching a new concept. Give an example as to how it is useful. If its not useful then why learn it? Once people understand the usefulness of something they'll want to learn it!
+Make sure student knows why they are learning something and how it is useful. Explain why student is learning something in the Intro of a lecture or whenever teaching a new concept. Give an example as to how it is useful. If its not useful then why learn it? Once people understand the usefulness of something they'll want to learn it!
 
 ![Elon musk attacks the education system](https://www.youtube.com/watch?v=UVHPHNegJNc)
 
@@ -15,15 +15,13 @@ Make sure student how the thing your teaching them is useful. Explain why studen
 ## COURSE_GUIDELINE_001
 **INTRODUCE CONCEPTS, EXPECT BEGINNERS, EXPLAIN JARGON**
 
-When introducing a new concept don't use any jargon or techincal words. Instead use plain english and simple words. Be as concise as possible, but still be thorough. Make sure that it is well explained with physical examples. Don't be vague, and make sure that no reader is left scratching their heads. Once the student understand it, tell them the techinical name of the concept. (Make sure to add this concept and its jargon (technical word) to the Notes!) From then on use the jargon / technical word when explaining things.
+When introducing a new concept don't use any jargon or techincal words. Instead use plain english and simple words. Be as concise as possible, while still being thorough. Make sure that it is well explained with physical examples. Don't be vague, and make sure that no reader is left scratching their heads. Once the student understand it, tell them the techinical name of the concept. (Make sure to add this concept and its jargon (technical word) to the Notes!) From then on use the jargon / technical word when explaining things.
 
 
 ## COURSE_GUIDELINE_002
 **JUST THE FACTS**
 
 No opinions. (If you want to explain your opinion then we highly recommend you make a blog post about it you can link to that blog post, try medium.com). Instead show both alternatives and working examples. This way the student see's technology and possiblility's, not potholes to be avoided.
-
-EDIT: Later we will have a way of having mini exploration courses for each lecture to explore and dive deeper into a specific concept / subject. So you can babble away!
 
 
 ## COURSE_GUIDELINE__003
@@ -99,7 +97,7 @@ When explaining a concept don't graze over "irrelevant" stuff and say "we'll exp
 
 The exception is when concept 1 cannot be understood until concept 2 is learned, but you have to use 2 first and then learn 1. One example is learning C syntax, you have to know what a function is before you can understand what `void` really means.
 
-The goal is to prevent the student from using something without understanding it, leading to frustration. When someone understands something, using it becomes trivial (easy).
+The goal is to prevent the student from using something without understanding it, leading to frustration. When someone understands something, using it becomes trivial (AKA easy).
 
 
 ## COURSE_GUIDELINE_011
@@ -108,13 +106,7 @@ The goal is to prevent the student from using something without understanding it
 When explaining something don't give the formal definition and then explain what that definition means. Instead take time to come up with a good explanation that expects no previous knowledge, explain like your telling your grandma. The idea is to prevent giving an explanation that doesn't make sense to a beginner for them to later understand it. This leads to demotivation "I don't understand" or "That made no sense to me".
 
 
-## COURSE_GIUDELINE_012
-**MAKE MOTIVATING SCHEDULE FOR STUDENT**
-
-If courses are broken up into weeks (started with week 0). Each week having one lecture and notes for the lecture. Then for each "week" have fun bonus tutorials written by anyone in the community! THis will give students a sense of accomplishment when they finish a "week" of work, and then can follow along with simple fun tutorials (and the tutorials will be able to be written with known pre-requisites, making writing the tutorials easier).
-
-
-## COURSE_GUIDELINE_013
+## COURSE_GUIDELINE_012
 **TUTORIALS ARE FUNNER THAN EXCERCISES**
 
-We've chosen to not have "excercies" instead at the end of each lecture there are fun Tutorials (in the folder called tutorials) that students can do after finishing the lecture. This is way funner than having course required excercises, it makes excercies feel like less of a chore and they are by default optional (since they are "Tutorials").
+We've chosen **not** to have "exercises" for each lecture. Instead at the end of each lecture there are fun Tutorials (in the folder called tutorials) that act as "exercises" that students can do after finishing the lecture, but really they are optional and are meant to be fun.
