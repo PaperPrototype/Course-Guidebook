@@ -103,10 +103,16 @@ The goal is to prevent the student from using something without understanding it
 ## COURSE_GUIDELINE_011
 **EXPLAIN THINGS WELL THE FIRST TIME**
 
-When explaining something don't give the formal definition and then explain what that definition means. Instead take time to come up with a good explanation that expects no previous knowledge, explain like your telling your grandma. The idea is to prevent giving an explanation that doesn't make sense to a beginner for them to later understand it. This leads to demotivation "I don't understand" or "That made no sense to me".
+Don't sacrifice readability for correctness. When explaining something don't give the formal definition and then explain what that definition means. Instead take time to come up with a good explanation that expects no previous knowledge, explain like your telling your grandma. The idea is to prevent giving an explanation that doesn't make sense to a beginner for them to later understand it. This leads to demotivation "I don't understand" or "That made no sense to me".
 
 
 ## COURSE_GUIDELINE_012
 **TUTORIALS ARE FUNNER THAN EXCERCISES**
 
 We've chosen **not** to have "exercises" for each lecture. Instead at the end of each lecture there are fun Tutorials (in the folder called tutorials) that act as "exercises" that students can do after finishing the lecture, but really they are optional and are meant to be fun.
+
+
+## COURSE_GUIDELINE_013
+**HOW TO GRADUALLY INTRUDUCE VOCABULAR USED IN THE INDUSTRY**
+
+Since we are teaching lots of new concepts, we should also include vocabulary that the reader may not be aware of that may be used by other texts. If we were to just make a "vocab" section for each lecture that would get broing, instead when using a word that may not be known by others include the synonym that best describes the new word and put it in parenthesis. Then in the notes you can give its formal definition. This allows the student to continue reading without having to constantly refernce the notes for vocab you are using.
