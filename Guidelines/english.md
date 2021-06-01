@@ -7,7 +7,7 @@ If a guideline is not clear or is redundant or hard to understand then make a ne
 ## COURSE_GUIDELINE_000
 **WHY AM I LEARNING THIS? HOW IS THIS USEFUL?**
 
-Make sure student knows why they are learning something and how it is useful. Start with a naive approach that lacks and then show them how the newer technique will help them out. Give an example as to how it is useful. If its not useful then why learn it? Once people understand the usefulness of something they'll want to learn it!
+Make sure student knows why they are learning something and how it is useful. Start with a naive approach that lacks and then show them how the newer technique will help them out. Give an example as to how it is useful. If its not useful then why learn it? If you show someone the usefulness of something they'll want to learn to use it!
 
 ![Elon musk attacks the education system](https://www.youtube.com/watch?v=UVHPHNegJNc)
 
