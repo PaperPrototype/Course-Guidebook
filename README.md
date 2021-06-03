@@ -1,6 +1,11 @@
 # Nanite-course-Guidelines
-A set of guidelines to help people format Nanite courses.
+A set of guidelines to help people format courses. If you want to contribute please read them.
 
-The Guidelines folder has some guidelines for nanite courses. If you want to contribute please read them, it won't take you more than 30 seconds, seriously, theres only a few guidelines.
+### Course Guidelines
+Overall course layout and techniques
 
-The Rules folder has some general rules, but mostly obvious ones.
+### Detail Guidelines
+Details and nitty gritty guidelines (That still matter!) for courses. 
+
+### Rules
+General rules, mostly obvious ones.
