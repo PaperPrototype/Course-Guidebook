@@ -1,7 +1,10 @@
 # Intro
-These guidelines are guides and tips not a set of rules, so if you have a better way to do something, then do it. Generally these guides have been taken from people like Elon Musk ("The biggest problem with education is we don't know why we are learning sonething" --Elon Musk) or are a result of frustrations the author(s) experienced during education that the want fixed.
+These guidlines are a set of problems students encounter when trying to learn, and the methods for teaching that prevent those problems. 
+They are also a result of frustrations the author(s) or students experienced during learning.
 
-If a guideline is not clear or is redundant or hard to understand then make a new Issue so it can be fixed.
+"The biggest problem with education is we don't know why we are learning something" --Elon Musk [Elon Musk attacks the education system](https://www.youtube.com/watch?v=UVHPHNegJNc)
+
+If a guideline is not clear or is redundant or hard to understand then we would love it if you make a new Issue so it can be fixed.
 
 
 ## DETAIL_GUIDELINE_000
@@ -13,24 +16,32 @@ Make sure student knows why they are learning something and how it is useful. St
 
 
 ## DETAIL_GUIDELINE_001
+**GIVE THE REASON FOR A DECISION**
+
+When you decide to do something make sure you give a reason. THis helps convince others of you decision and prevents you from making bad decisions because you are willing to question yourself. Again this also forces you to answer the why behind everything.
+
+You will notice all of the guidlines here explain themselves and their reasons. This is a way of finding error through "first principles", always asking the why, until you find a fundamental truth about something. And then building on top of those fundamental concepts proving our concepts (or disproving them).
+
+
+## DETAIL_GUIDELINE_002
 **BE THROUGH**
 
 This is probably the most important part of teaching. Most courses or tutorials I have found online like to skip over the a technique they are using, or just not fully flesh it out. It is super important that you understand every concept and bit of code, otherwise you won't be able to apply what you learned to your own projects (outside of the tutorials your not quite sure how to use it). I needed to be able to start with a super simple version of the technique and then work towards using it. If you teach something on its own, **and then** have them use alongside other stuff, they will already know how it works, so the other stuff doesn't overhelm them.
 
 
-## DETAIL_GUIDELINE_002
+## DETAIL_GUIDELINE_003
 **INTRODUCE CONCEPTS, EXPECT BEGINNERS, EXPLAIN JARGON**
 
 When introducing a new concept don't use any jargon or techincal words. Instead use plain english and simple words. Try to be concise and waste as little time as possible by using pictures rather than trying to describe it! Make sure that it is well explained with physical examples. Don't be vague, and make sure that no reader is left scratching their heads. A short but sweet explanation with picutres that really hits the spot is worth taking the time to make (epecially for the student). You shouldn't sit there and write every word to be perfect because then your would never finish, so if you think of a better explanation or find a way to explain it that really makes sense, then go back and redo your explanation. This is something we highly value at Nanite3D. Once the student understand it, tell them the techinical name of the concept. (Make sure to add this concept and its jargon (technical word) to the Notes!) From then on use the jargon / technical word when explaining things. This way students learn words and vocab as they go through the lectures.
 
 
-## DETAIL_GUIDELINE_003
+## DETAIL_GUIDELINE_004
 **JUST THE FACTS**
 
 No opinions. (If you want to explain your opinion then we highly recommend you make a blog post about it you can link to that blog post, try medium.com). Instead show both alternatives and working examples. This way the student see's technology and possiblility's, not potholes to be avoided.
 
 
-## DETAIL_GUIDELINE__004
+## DETAIL_GUIDELINE__005
 **SOMETIMES SHORTER IS BETTER**
 
 When explaining a concept ask yourself these questions.
@@ -41,25 +52,25 @@ When explaining a concept ask yourself these questions.
  You may rewrite a sentence several times but that is time saved for the student, as well as painful sentence structure that nobody wants to read.
 
 
-## DETAIL_GUIDELINE_005
+## DETAIL_GUIDELINE_006
 **EXPERIENCE**
 
 As stated before opinions aren't necessarily useful. This is not true of experience. Experience is **very** useful, as it takes years to learn certain things. By adding things you;ve learned from exerpience to a course, you are advancing the student by however many years it took you to learn that. Relaying experience is important but keep it short. Also you can link to blog posts for lengthy or in depth advice / opions / experience. Try medium.com for blogging its free and... very awesome.
 
 
-## DETAIL_GUIDELINE_006
+## DETAIL_GUIDELINE_007
 **WRITE NOTES FOR STUDENTS**
 
 Every time you introduce a new concept add it to the notes. Be super concise and add shortened examples from the lecture. Notes are for those needing a refresher. Notes should use jargon (technical words), as long as they are defined in the Vocab section of the notes and were discussed during the lecture. Notes should also include all struct types and programming language keywords used and their usage and definitions and what those types do, or how those keywords affect stuff.
 
 
-## DETAIL_GUIDELINE_007
+## DETAIL_GUIDELINE_008
 **LEARN BY CONCEPT AND EXAMPLE**
 
 Don't try to pre-explain vague ideas or concepts, this will lose the students interest and focus. Instead explain things as you have use them in a physical example, and be thorough! Use diagrams and teach the concept before showing them the code. Then when they use the code it makes sense. This keeps students from getting bored. But also ensures they understand what you are teaching them.
 
 
-## DETAIL_GUIDELINE_008
+## DETAIL_GUIDELINE_009
 **CODE SNIPPETS**
 
 Any code snippets shown need to be in context. It can be confusing when you don't tell the student where that snippet is supposed to go. Also make sure to add `// ... snipping irrelevant code ... //` where code that has already been written is. For example
@@ -82,12 +93,6 @@ can be confusing compared to
 ```
 
 The exception to the rule is when showing code that has already been shown, but that has only changed slightly.
-
-
-## DETAIL_GUIDELINE_009
-**CLEAR COURSE PREREQUISITES**
-
-When making a course it must have prerequisite courses going from beginner to your course. If there is not a fully fleshed out course path, then at least have courses planned to fill the gaps. Here at Nanite we try to focus on the core courses to get people up and running, so usually we will already have the appropriate prerequisite courses made for beginner subjects. Feel free to build courses on top of ours (on top meaning our courses are a prerequisite to yours), actually we HIGHLY encourage this!
 
 
 ## DETAIL_GUIDELINE_010
@@ -113,9 +118,9 @@ Don't sacrifice readability for correctness. When explaining something don't giv
 
 
 ## DETAIL_GUIDELINE_013
-**TUTORIALS ARE FUNNER THAN EXCERCISES**
+**USE TUTORIALS NOT EXCERCISES**
 
-We've chosen **not** to have "exercises" for each lecture. Instead at the end of each lecture there are fun Tutorials (in the folder called tutorials) that act as "exercises" that students can do after finishing the lecture, but really they are optional and are meant to be fun.
+Only teach concepts in the lectures and leave the experimentation to the student and tutorials. If you include a section on "How to make a cool shader effect" with what the student has learned you're taking their time up for experimentation and making them do what you think would be cool. Instead if you think the student might want to do something cool with what they've learned create a tutorial that can be taken after the lecture is over.
 
 
 ## DETAIL_GUIDELINE_014
@@ -123,6 +128,8 @@ We've chosen **not** to have "exercises" for each lecture. Instead at the end of
 
 Since we are teaching lots of new concepts, we should also include vocabulary that the reader may not be aware of that may be used by other texts. If we were to just make a "vocab" section for each lecture that would get broing, instead when using a word that may not be known by others include the synonym that best describes the new word and put it in parenthesis. Then in the notes you can give its formal definition. This allows the student to continue reading without having to constantly refernce the notes for vocab you are using.
 
-## DETAIL_GUIDELINE_015
 
-Only teach concepts in the lectures and leave the experimentation to the student and tutorials. The goal is to make the courses practical. If you include a section on "How to make a cool shader effect" with what the student has learned you're taking their time up for experimentation and making them do what you think would be cool. Instead if you think the student might want to do something cool with what they've learned create a tutorial that can be taken after the lecture is over.
+## DETAIL_GUIDELINE_015
+**USE PICTURES AND DIAGRAMS**
+
+A good diagram or picture can save you 2 pages worth of writing. This save you time and the student time. Diagrams are easy to understand (when explained) and usually are much easier to understand than purely written explainations.

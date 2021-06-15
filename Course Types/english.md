@@ -1,0 +1,5 @@
+# Knowledge Course
+A knowledge course should be designed to teach a student concepts and then let them explore those concepts in their own projects. These courses should not be made of one large project, instead they should use the smallest and simplest "micro proejcts" that each teaches some concepts. This ensures the concepts you need to teach don't have to become specialized or bogged down by the specifics of the "cool project" you are doing.
+
+# Tutorial Course
+A tutorial course should teach the student how to make a large cool project like making a specific popular of renderer. Or making a fun physics system. These courses will inevitably have to teach some concepts, but currently it seems, that it would be better if these courses were to come after a knowledge course and simply apply what the student already knows and show them how to use it to make a, for example, a planet using what they learned from a voxel systems course. Tutorial courses should have clear pre-requisites.
