@@ -29,3 +29,5 @@ These guidelines are a result of trying to achieve this goal by coming up a with
  - most students don't want to do the "excercises", or just don't do them
 
 another goal of these methods is to try to make education addictive.
+
+> Throughout history whenever the general knowledge was increased that is when we saw advancements in technology.
