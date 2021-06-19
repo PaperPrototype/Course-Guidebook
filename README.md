@@ -22,7 +22,7 @@ But first we need to get beginners to become experts, experts that can make enti
 
 We will do this by forcing every course to have the proper pre-requisites all the way down to "Intro to Coding". This way there are no "gaps" or bridges of knowledge for the students. We will acheive the goal eventually, and we're not giving up. Ever.
 
-These guidelines are a result of trying to achieve this goal by coming up a with a teaching method that will remove the problems current education systems have...
+These guidelines are a result of trying to achieve this goal by coming up a with a teaching method that will remove the problems current education systems have.
  - bored students
  - students scratching their heads and feeling frsutrating
  - students not knowing why they are learning something
