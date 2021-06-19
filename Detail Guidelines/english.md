@@ -10,7 +10,13 @@ If a guideline is not clear or is redundant or hard to understand then we would 
 ## DETAIL_GUIDELINE_000
 **WHY AM I LEARNING THIS? HOW IS THIS USEFUL?**
 
-Make sure student knows why they are learning something and how it is useful. Start with a naive approach that lacks and then show them how the newer technique will help them out. Teach in a way so that the student makes the connections and see its usefulness, don't just tell them there is a connection (which is what most books do). If you teach a student how to do rotations in 2D using plain math without using matrixes and then show them how to use a matrix to do the math, they'll go "oh, matrixes are a different way of laying out the numbers". Now they understand how it is useful. If its not useful then why learn it? If you show someone the usefulness of something they'll want to learn to use it! 
+Make sure student knows why they are learning something and how it is useful. You can do this by teaching something in context of its application / use. Teach in a way so that the student makes the to why something is useful. Don't just tell the student that they will need to know this information (which is what most books do). 
+
+For things that are complex that the student will not want to learn, start with a simple naive example then show them how the newer complex technique will help them out. 
+
+If you teach a student how to do rotations in 2D using plain math without matrixes and then transition to using a matrix to do the math, then they'll see how matrixes help, they'll go "oh, matrixes are a different way of laying out the numbers". Now they understand how it is useful. If its not useful then why learn it? If you show someone the usefulness of something they'll want to learn to use it!
+
+The goal is to get the student to see the problems that the pioneers saw, and then help them build the solutions that the pioneers made.
 
 ![Elon musk attacks the education system](https://www.youtube.com/watch?v=UVHPHNegJNc)
 
