@@ -11,10 +11,10 @@ Almost every guideline we give comes back to these 2 goals.
 
 Anything in brackest "[]" are not part of the course but are comments made by the teaching team at crux3D. Anything in "()" is a comment for the student and *is* a part of the course.
 
-The following Mock course is from the course "Intro-Voxel-Terrain-Systems-in-Unity" on making a gradual planet orientation for gameObjects in Unity.
+The following Mock tutorial is from the course "Intro-Voxel-Terrain-Systems-in-Unity" on making a gradual planet orientation for gameObjects in Unity.
 
 # Mock Intro
-[Start with something super simplified and then show how it "really" works so that the student doesn't get overwhelmed and give up because the inital explanation didn't make sense. We re-wrote the following papragraph 3 times until it made sense the first time someone read it. WE worte a rough version of the parapgragh and then improved it, don't worry about getting it perfect the first time, or you will never finish the course. The usage of the word "normalized" was explained on the spot. If we had explained it in another section before we would simply remind the student what "normalized" means by putting a synonym comment like "(between 0 and 0)."]
+[We always start an explanation of a concept with something super simplified so that we can grow the concept later and show how it "really" works. This is so that the student doesn't get overwhelmed and give up because the inital explanation didn't make sense. We re-wrote the following papragraph 3 times until it made sense the first time someone read it. WE worte a rough version of the parapgragh and then improved it, don't worry about getting it perfect the first time, or you will never finish the course. The usage of the word "normalized" was explained on the spot. If we had explained it in another section before we would simply remind the student what "normalized" means by putting a synonym comment like "(between 0 and 0)."]
 
 We want to gradually have the upDirection affect the players orientation. We will query the animation curve with a normalized distance from the planet (this is because an AnimationCurve only lets us ask it for normalized numbers). Then we use the number we get from the AnimationCurve(the number we get is also normalized) as a multiplier to affect the amount that the upDirection has on the player's up transform.
 
