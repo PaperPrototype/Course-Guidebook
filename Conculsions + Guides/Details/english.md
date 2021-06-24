@@ -42,12 +42,18 @@ When introducing a new concept don't use any jargon or techincal words. Instead 
 
 
 ## DETAIL_GUIDELINE_004
+**STUDENTS DON'T KNOW ANYTHING OUTSIDE OF PRE-REQUISITES**
+Don't expect students to know anything outside of the pre-requisite courses. If you are going to use an `IEnumerator` but `IEnumerator`'s are not explained in a pre-requisite course then take the time to explain them. This creates courses that are made for fast and optimized courses, because you learn information as you need it. This prevents from having to have long exhaustive pre-requisite courses that cover every possible thing you might need to know.
+
+At the same time this keeps with DETAIL_GUIDELINE_000, since the student will know "why" they are learning something, rather than shoving a ton of infromation that "they will need to know". Nobody likes to learn a ton of information "they will need to know", we natrually want the information to come as we need it, this is much funner and results in less time wasted.
+
+## DETAIL_GUIDELINE_005
 **JUST THE FACTS**
 
 No opinions. (If you want to explain your opinion then we highly recommend you make a blog post about it you can link to that blog post, try medium.com). Instead show both alternatives and working examples. This way the student see's technology and possiblility's, not potholes to be avoided.
 
 
-## DETAIL_GUIDELINE__005
+## DETAIL_GUIDELINE_006
 **SOMETIMES SHORTER IS BETTER**
 
 When explaining a concept ask yourself these questions.
@@ -58,25 +64,25 @@ When explaining a concept ask yourself these questions.
  You may rewrite a sentence several times but that is time saved for the student, as well as painful sentence structure that nobody wants to read.
 
 
-## DETAIL_GUIDELINE_006
+## DETAIL_GUIDELINE_007
 **EXPERIENCE**
 
 As stated before opinions aren't necessarily useful. This is not true of experience. Experience is **very** useful, as it takes years to learn certain things. By adding things you;ve learned from exerpience to a course, you are advancing the student by however many years it took you to learn that. Relaying experience is important but keep it short. Also you can link to blog posts for lengthy or in depth advice / opions / experience. Try medium.com for blogging its free and... very awesome.
 
 
-## DETAIL_GUIDELINE_007
+## DETAIL_GUIDELINE_008
 **WRITE NOTES FOR STUDENTS**
 
 Every time you introduce a new concept add it to the notes. Be super concise and add shortened examples from the lecture. Notes are for those needing a refresher. Notes should use jargon (technical words), as long as they are defined in the Vocab section of the notes and were discussed during the lecture. Notes should also include all struct types and programming language keywords used and their usage and definitions and what those types do, or how those keywords affect stuff.
 
 
-## DETAIL_GUIDELINE_008
+## DETAIL_GUIDELINE_009
 **LEARN BY CONCEPT AND EXAMPLE**
 
 Don't try to pre-explain vague ideas or concepts, this will lose the students interest and focus. Instead explain things as you have use them in a physical example, and be thorough! Use diagrams and teach the concept before showing them the code. Then when they use the code it makes sense. This keeps students from getting bored. But also ensures they understand what you are teaching them.
 
 
-## DETAIL_GUIDELINE_009
+## DETAIL_GUIDELINE_010
 **CODE SNIPPETS**
 
 Any code snippets shown need to be in context. It can be confusing when you don't tell the student where that snippet is supposed to go. Also make sure to add `// ... snipping irrelevant code ... //` where code that has already been written is. For example
@@ -101,13 +107,13 @@ can be confusing compared to
 The exception to the rule is when showing code that has already been shown, but that has only changed slightly.
 
 
-## DETAIL_GUIDELINE_010
+## DETAIL_GUIDELINE_011
 **USE ENGLISH AS THE STANDARD**
 
 When translating a course, use the english version as the standard for trnaslation. This is for a reason. English is taught in many schools. If your making a course in another language make sure to translate it into english. That way other trnaslations can be based on the english version.
 
 
-## DETAIL_GUIDELINE_011
+## DETAIL_GUIDELINE_012
 **EXPLAIN THINGS AS MUCH AS POSSIBLE UP FRONT**
 
 When explaining a concept don't graze over "irrelevant" stuff and say "we'll explain this a couple lectures", or "this will make sense later". Explain it! **Use pictures** (a pictures worth 1000 words)! Using pictures will reduce the number of words the student has to read, and it makes the explenation much easier to understand. 
@@ -117,25 +123,25 @@ The exception is when concept 1 cannot be understood until concept 2 is learned,
 The goal is to prevent the student from using something without understanding it, leading to frustration. When someone understands something, using it becomes trivial (AKA easy).
 
 
-## DETAIL_GUIDELINE_012
+## DETAIL_GUIDELINE_013
 **EXPLAIN THINGS WELL THE FIRST TIME**
 
 Don't sacrifice readability for correctness. When explaining something don't give the formal definition and then explain what that definition means. Instead take time to come up with a good explanation that expects no previous knowledge, explain like your telling your grandma. The idea is to prevent giving an explanation that doesn't make sense to a beginner for them to later understand it. This leads to demotivation "I don't understand" or "That made no sense to me".
 
 
-## DETAIL_GUIDELINE_013
+## DETAIL_GUIDELINE_014
 **USE TUTORIALS NOT EXCERCISES**
 
 Only teach concepts in the lectures and leave the experimentation to the student and tutorials. If you include a section on "How to make a cool shader effect" with what the student has learned you're taking their time up for experimentation and making them do what you think would be cool. Instead if you think the student might want to do something cool with what they've learned create a tutorial that can be taken after the lecture is over.
 
 
-## DETAIL_GUIDELINE_014
+## DETAIL_GUIDELINE_015
 **HOW TO GRADUALLY INTRUDUCE VOCABULAR USED IN THE INDUSTRY**
 
 Since we are teaching lots of new concepts, we should also include vocabulary that the reader may not be aware of that may be used by other texts. If we were to just make a "vocab" section for each lecture that would get broing, instead when using a word that may not be known by others include the synonym that best describes the new word and put it in parenthesis. Then in the notes you can give its formal definition. This allows the student to continue reading without having to constantly refernce the notes for vocab you are using.
 
 
-## DETAIL_GUIDELINE_015
+## DETAIL_GUIDELINE_016
 **USE PICTURES AND DIAGRAMS**
 
 A good diagram or picture can save you 2 pages worth of writing. This save you time and the student time. Diagrams are easy to understand (when explained) and usually are much easier to understand than purely written explainations.

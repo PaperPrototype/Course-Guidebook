@@ -1,33 +1,32 @@
 # Nanite-course-Guidelines
-A set of guidelines to help people format courses. If you want to contribute please read them.
+A set of guidelines and helpful guides, advice, and guidance for people wanting to teach or make courses.
 
-### Course Guidelines
-Overall course layout and techniques
+Each peice of advice we put together we want to prove true or false to eliminate error and helps make these guidelines a useful reliable source of guidance for teachers and educators to make the best courses in the world.
 
-### Detail Guidelines
-Details and nitty gritty guidelines (That still matter!) for courses. 
+# Layout
+Making your firsrt Course:
+    A landing starting point guide for those just starting out with teaching.
 
-### Rules
-General rules, mostly obvious ones.
+Conclusions + Guides:
+    Overall:
+        Overall course design and techniques
+    Details:
+        Details and nitty gritty guidelines that will help you out
+    Teaching Workflow:
+        A teaching workflow for outputting error free and well explained courses for students by having the teacher place themselves in the students shoes, to ensure no student is ever left "scratching their head" (AKA confused).
 
+First Principles:
+    Ongoing community and internally driven document for finding the first principles of teaching and learning. For the purpose of being able to prove or disprove guidelines, teaching techniques, and teaching workflows using first principles.
 
-# Goal
-If we could just download all the information from experts into other peoples minds, suddenly you would have lots of awesome tech being made instead of hordes of beginners trying to "figure it out".
+Rules:
+    General rules, mostly obvious ones that every educator should follow.
 
-If you find it annoying that people are always struggling and asking you questions about how to do something, if there was a really good course on it then you could just point them to it! And Viola! A whole generation of really well educated devs that are experts! 
+Course Types:
+    classification of courses and how each type is useful for different purposes.
 
-My dream, and goal, is to replace college ed with online courses that are way better than the courses you can take in college, and create a whole bunch of really knowledgable and capable engine developers / game devs and as a result have exciting tech being made.
+Footnotes:
+    links to resources quoted or resources a guideline is based on. A general place to put resource links for further reading and research.
 
-But first we need to get beginners to become experts, experts that can make entire game engines. 
-
-We will do this by forcing every course to have the proper pre-requisites all the way down to "Intro to Coding". This way there are no "gaps" or bridges of knowledge for the students. We will acheive the goal eventually, and we're not giving up. Ever.
-
-These guidelines are a result of trying to achieve this goal by coming up a with a teaching method that will remove the problems current education systems have.
- - bored students
- - students scratching their heads and feeling frsutrating
- - students not knowing why they are learning something
- - most students don't want to do the "excercises", or just don't do them
-
-another goal of these methods is to try to make education addictive.
-
-> Throughout history whenever the general knowledge was increased that is when we saw advancements in technology.
+# TODO
+- One document containing first principles.
+- Another document containing conclusions built from first principles that can be used for teaching.
