@@ -4,7 +4,7 @@ A set of guidelines and helpful guides, advice, and guidance for people wanting 
 Each peice of advice we put together we want to prove true or false to eliminate error and helps make these guidelines a useful reliable source of guidance for teachers and educators to make the best courses in the world.
 
 # Layout
-Making your firsrt Course:
+Making your first Course:
 - A landing starting point guide for those just starting out with teaching.
 
 Conclusions + Guides:
