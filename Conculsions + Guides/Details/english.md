@@ -30,7 +30,7 @@ You will notice all of the guidlines here explain themselves and their reasons. 
 
 
 ## DETAIL_GUIDELINE_002
-**BE THROUGH**
+**BE THROUGH AND DETAILED INCREMENTALLY**
 
 This is probably the most important part of teaching. Most courses or tutorials I have found online like to skip over the a technique they are using, or just not fully flesh it out. It is super important that you understand every concept and bit of code, otherwise you won't be able to apply what you learned to your own projects (outside of the tutorials your not quite sure how to use it). I needed to be able to start with a super simple version of the technique and then work towards using it. If you teach something on its own, **and then** have them use alongside other stuff, they will already know how it works, so the other stuff doesn't overhelm them.
 
@@ -54,7 +54,7 @@ No opinions. (If you want to explain your opinion then we highly recommend you m
 
 
 ## DETAIL_GUIDELINE_006
-**SOMETIMES SHORTER IS BETTER**
+**SHORTER IS BETTER**
 
 When explaining a concept ask yourself these questions.
  - Will the student be using this information
@@ -114,19 +114,21 @@ When translating a course, use the english version as the standard for trnaslati
 
 
 ## DETAIL_GUIDELINE_012
-**EXPLAIN THINGS AS MUCH AS POSSIBLE UP FRONT**
+**USE PICTURES AND DIAGRAMS**
 
-When explaining a concept don't graze over "irrelevant" stuff and say "we'll explain this a couple lectures", or "this will make sense later". Explain it! **Use pictures** (a pictures worth 1000 words)! Using pictures will reduce the number of words the student has to read, and it makes the explenation much easier to understand. 
+A good diagram or picture can save you 2 pages worth of explaining. This is better for you and the student. And it improves the reading time for the student. 
 
-The exception is when concept 1 cannot be understood until concept 2 is learned, but you have to use 2 first and then learn 1. One example is learning C syntax, you have to know what a function is before you can understand what `void` really means.
-
-The goal is to prevent the student from using something without understanding it, leading to frustration. When someone understands something, using it becomes trivial (AKA easy).
+Also simple diagrams are easy to understand (when explained), and are in most cases much easier to understand than purely written explanations.
 
 
 ## DETAIL_GUIDELINE_013
 **EXPLAIN THINGS WELL THE FIRST TIME**
 
 Don't sacrifice readability for correctness. When explaining something don't give the formal definition and then explain what that definition means. Instead take time to come up with a good explanation that expects no previous knowledge, explain like your telling your grandma. The idea is to prevent giving an explanation that doesn't make sense to a beginner for them to later understand it. This leads to demotivation "I don't understand" or "That made no sense to me".
+
+The goal is to prevent the student from using something without understanding it, leading to frustration. 
+
+When someone understands how something works, using it becomes trivial (AKA easy).
 
 
 ## DETAIL_GUIDELINE_014
@@ -138,10 +140,12 @@ Only teach concepts in the lectures and leave the experimentation to the student
 ## DETAIL_GUIDELINE_015
 **HOW TO GRADUALLY INTRUDUCE VOCABULAR USED IN THE INDUSTRY**
 
-Since we are teaching lots of new concepts, we should also include vocabulary that the reader may not be aware of that may be used by other texts. If we were to just make a "vocab" section for each lecture that would get broing, instead when using a word that may not be known by others include the synonym that best describes the new word and put it in parenthesis. Then in the notes you can give its formal definition. This allows the student to continue reading without having to constantly refernce the notes for vocab you are using.
+Since we are teaching lots of new concepts, we should also include vocabulary that the reader may not be aware of that may be used by other texts. 
 
+If ew jsut start using the vocab and the make a "vocab" section for each lecture that would get broing and frustrating for the student. 
 
-## DETAIL_GUIDELINE_016
-**USE PICTURES AND DIAGRAMS**
+Instead when intriducing a concept use the plain english example with analogous words, that can transition to the "correct" word easily.
 
-A good diagram or picture can save you 2 pages worth of writing. This save you time and the student time. Diagrams are easy to understand (when explained) and usually are much easier to understand than purely written explainations.
+You can also include a synonym for a technical word (in parenthesis) to help the student better understand a new word. It is alsoa good idea to repet the technical words synonym a couple times and not expect the student to immediately be able to use the word. THis helps the student get used to using the word without overwhelming them.
+
+In the notes of a lecture give all the vocabulary and their formal definition, as well as an explanation of the word. This helps the student when they forgot the meaning of a word. Also if you don't they will probably look it up on Google, which may give them the wrong definition of a word since, for example, the word "vertex" can also mean "	The highest point; the apex or summit." or "The highest point of the skull."
