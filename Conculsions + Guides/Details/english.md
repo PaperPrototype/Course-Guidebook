@@ -122,6 +122,22 @@ Also simple diagrams are easy to understand (when explained), and are in most ca
 
 
 ## DETAIL_GUIDELINE_013
+**DON'T NAME IT TILL YOU'VE EXPLAINED IT**
+
+When you say something like "The magnitude of a vector is the length of the distance it covers relative to its coordinate space." Maybe you can see the problem. In describing the magnitude of a vector, for those who already know what the magnitude of a vector is, the explanation will make sense. But for a complete beginner you've essentially wasted your time.
+
+How so? When a word is used that the studetn doesn't understand,in my experience, their brain immediately stops comprehending what you saying, and stops proceesing the meaning of what you are saying.
+
+The way I solve this is to not include any words the student doesn't already know when describing the definition of something. As an example from the Voxel Terrain course
+
+> When the the distance from the origin (aka `Vector3(0, 0, 0)`) of a vector to the "pointy end" of that vector is 1, we say that the vector is a "Unit Vector" (check the notes of this lecture for definitions of all the vocab and techy words). The distance from the center of our normals `Vector3(0, 0, 0)` to its end `Vector3(0, 0, 1)` is obviously 1, so we are fine.
+
+Then after I've defined it I give it a name.
+
+(I actually re-wrote the explanation after having written this)
+
+
+## DETAIL_GUIDELINE_013
 **EXPLAIN THINGS WELL THE FIRST TIME**
 
 Don't sacrifice readability for correctness. When explaining something don't give the formal definition and then explain what that definition means. Instead take time to come up with a good explanation that expects no previous knowledge, explain like your telling your grandma. The idea is to prevent giving an explanation that doesn't make sense to a beginner for them to later understand it. This leads to demotivation "I don't understand" or "That made no sense to me".

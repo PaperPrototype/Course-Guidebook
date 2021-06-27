@@ -89,3 +89,7 @@ I have yet to figure this out.
 
 # Contribute to Wikipedia
 If I link to a Wkipedia resource I find it good to contribute to it and make sure it is a not a bad or incorrect explanation, since, it's likely the student will be reading that WIkipedia article.
+
+
+# Inspire students
+Most people who get into game development did so because of a video game they played. If we inspire our students with epic demos of some technology, it's likely they will want to make it. When they find out that there is a course on how to make it, my guess is, they ewil
