@@ -1,3 +1,5 @@
+TODO rename to teaching guidebook
+
 # Nanite-course-Guidelines
 A set of guidelines and helpful guides, advice, and guidance for people wanting to teach or make courses.
 

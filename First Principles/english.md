@@ -12,8 +12,12 @@ Once we figure out the first principle we can make build useful principles on to
 
 
 # How to find first principles and what is a first principle?
-(TODO improve, more pragmatic, more useful)
+(TODO improve, more pragmatic, more useful, more CORRECT)
+
+A note: Most of this is a guess so this document needs corrected by someone who actaully knows what first principles reasoning is.
+
 If I say "man is mortal" then if you ask "Why is man mortal?" you get "Because men die". Then ask "Why do men die?" and so on and so forth until you reach a statement that you can't answer the why to "Because we age" and if you ask why to that you get "Because things that age die" and then ask "why do things that age die" and so on and so forth. The final answer that would eventualy be something so fundamental that "why" cannot be asked, and that answer would be a first principle.
+
 
 
 # Layout
@@ -29,7 +33,7 @@ Comment or explanation
 
 ```
 
-# First principles
+# First principles... Sorta
 
 #### 1
 [A reason for everything]
@@ -47,3 +51,5 @@ The only true constant in existance is change.
 
 #### 3.2
     [Simple things are learned by many]
+
+[The more solid the concept, the easier it is understood]
