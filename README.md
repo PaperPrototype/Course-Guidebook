@@ -1,5 +1,7 @@
 TODO rename to teaching guidebook
 
+A note: Most of this is a estimated guess work so this document needs corrected by someone who actaully knows what first principles reasoning is. This document needs significantly improved and re-written
+
 # Nanite-course-Guidelines
 A set of guidelines and helpful guides, advice, and guidance for people wanting to teach or make courses.
 
