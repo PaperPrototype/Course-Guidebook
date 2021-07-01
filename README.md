@@ -13,7 +13,7 @@ A persoanl apology from me (the author) for all the "we" and making it sound lik
 
 
 # Writing style
-Crux3D courses are written in a blog-post style, with a few guidelines and restrictions layed out in this document
+Crux3D courses are written in a blog-post style, with a few guidelines and restrictions layed out in these documents.
 
 
 # Layout
