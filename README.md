@@ -16,7 +16,7 @@ A persoanl apology from me (the author) for all the "we" and making it sound lik
 Crux3D courses are written in a blog-post style, with a few guidelines and restrictions layed out in these documents.
 
 
-# Layout
+# Repositiory Layout
 Making your first Course:
 - A landing starting point guide for those just starting out with teaching.
 
