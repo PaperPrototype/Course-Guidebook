@@ -2,19 +2,27 @@
 These guidlines are a set of problems students encounter when trying to learn, and the methods for teaching that prevent those problems. 
 They are also a result of frustrations the author(s) or students experienced during learning.
 
-"The biggest problem with education is we don't know why we are learning something" --Elon Musk [Elon Musk attacks the education system](https://www.youtube.com/watch?v=UVHPHNegJNc)
+"The mistake we are making in education is that the teacher do not explain why we are being taught a subject. You just sorta get dumped into math and like, well why am I learning math? Whats the point of this? I don't know why am being asked to do these strange problems." --Elon Musk [Elon Musk attacks the education system](https://www.youtube.com/watch?v=UVHPHNegJNc)
+
+he then proceeds to answer the WHY behind his logic 
+
+"You know, the why of things is extremely important. Because our brain has evolved to discard information that it thinks has irrelevance."
 
 If a guideline is not clear or is redundant or hard to understand then we would love it if you make a new Issue so it can be fixed.
 
 
 ## DETAIL_GUIDELINE_000
-**WHY AM I LEARNING THIS? HOW IS THIS USEFUL?**
+**WHY AM I LEARNING THIS? HOW IS THIS USEFUL TO ME?**
 
-Make sure student knows why they are learning something and how it is useful. You can do this by teaching something in context of its application / use. Teach in a way so that the student makes the to why something is useful. Don't just tell the student that they will need to know this information (which is what most books do). 
+Make sure student knows why they are learning something and how it applies to their end goal. You can do this by teaching something in context of its application / use. Or teach in a way so that the student makes the mental connection as to why they need to know what you are teaching them.
 
-For things that are complex that the student will not want to learn, start with a simple naive example then show them how the newer complex technique will help them out. 
+Don't just tell the student that they will need to know this information (which is what most books do) and then not explain any further. 
+
+For things that are complex that the student will not want to learn,make sure not to teach it in isolation. Instead teach it in the context of a cool small project, that they will find relevant. Also start with a simple naive example to get them warmed up, then once they understand the basics of it, show them how do the complex technique (that may have been boring and tedious id you had tried teaching it right off the bat).
 
 If you teach a student how to do rotations in 2D using plain math without matrixes and then transition to using a matrix to do the math, then they'll see how matrixes help, they'll go "oh, matrixes are a different way of laying out the numbers". Now they understand how it is useful. If its not useful then why learn it? If you show someone the usefulness of something they'll want to learn to use it!
+
+Another example would be. When teaching how to make a renderer, make a naive CPU based renderer first (to prevent them from getting overwhelmed by the complexities of graphics APIs) and then later once they understand the basic math, logic, and concepts of graphics, transition to using a modern graphics API (or an graphics API abstraction library).
 
 The goal is to get the student to see the problems that the pioneers saw, and then help them build the solutions that the pioneers made.
 
@@ -30,7 +38,7 @@ You will notice all of the guidlines here explain themselves and their reasons. 
 
 
 ## DETAIL_GUIDELINE_002
-**BE THROUGH AND DETAILED INCREMENTALLY**
+**BE THROUGH AND DETAILED, INCREMENTALLY**
 
 This is probably the most important part of teaching. Most courses or tutorials I have found online like to skip over the a technique they are using, or just not fully flesh it out. It is super important that you understand every concept and bit of code, otherwise you won't be able to apply what you learned to your own projects (outside of the tutorials your not quite sure how to use it). I needed to be able to start with a super simple version of the technique and then work towards using it. If you teach something on its own, **and then** have them use alongside other stuff, they will already know how it works, so the other stuff doesn't overhelm them.
 
@@ -43,6 +51,7 @@ When introducing a new concept don't use any jargon or techincal words. Instead 
 
 ## DETAIL_GUIDELINE_004
 **STUDENTS DON'T KNOW ANYTHING OUTSIDE OF PRE-REQUISITES**
+
 Don't expect students to know anything outside of the pre-requisite courses. If you are going to use an `IEnumerator` but `IEnumerator`'s are not explained in a pre-requisite course then take the time to explain them. This creates courses that are made for fast and optimized courses, because you learn information as you need it. This prevents from having to have long exhaustive pre-requisite courses that cover every possible thing you might need to know.
 
 At the same time this keeps with DETAIL_GUIDELINE_000, since the student will know "why" they are learning something, rather than shoving a ton of infromation that "they will need to know". Nobody likes to learn a ton of information "they will need to know", we natrually want the information to come as we need it, this is much funner and results in less time wasted.
