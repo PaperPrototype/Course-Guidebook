@@ -1,6 +1,6 @@
-TODO rename to teaching guidebook
 
 A note: Most of this is a estimated guess work so this document needs corrected by someone who actaully knows what first principles reasoning is. This document needs significantly improved and re-written
+
 
 # Nanite-course-Guidelines
 A set of guidelines and helpful guides, advice, and guidance for people wanting to teach or make courses.
@@ -9,7 +9,12 @@ Each peice of advice I put together I want to prove true or false to eliminate e
 
 Each guideline and tip may not be entirely correct, but is simply an estimated guess. As a result many of these guidelines are constantly changing. I hope that by constantly evolving this document it will reach a point of accurracy very fast, as well as some amount of stability.
 
-A persoanl apology from me (the author) for all the "we" and making it sound like this was written by many people. As well as my tendancy to stae eveything as a fact, when in fact, they are just a guess.
+A persoanl apology from me (the author) for all the "we" and making it sound like this was written by many people. As well as my tendancy to state eveything as a fact, when in fact, they are just a guess.
+
+
+# Writing style
+Crux3D courses are written in a blog-post style, with a few guidelines and restrictions layed out in this document
+
 
 # Layout
 Making your first Course:
@@ -38,3 +43,4 @@ Footnotes:
 # TODO
 - One document containing first principles.
 - Another document containing conclusions built from first principles that can be used for teaching.
+- rename to "crux3D course guidelines"
