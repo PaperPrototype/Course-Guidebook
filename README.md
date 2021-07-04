@@ -1,9 +1,6 @@
 
-A note: Most of this is a estimated guess work so this document needs corrected by someone who actaully knows what first principles reasoning is. This document needs significantly improved and re-written
-
-
 # Course-Guidebook
-A set of guidelines and helpful guides, advice, and guidance for people making courses for crux3D.
+This documunet is mainly notes for myself and others who will be helping me make courses.
 
 Each peice of advice I put together I want to prove true or false to eliminate error and helps make these guidelines a useful reliable source of guidance for teachers and educators to make the best courses in the world.
 
