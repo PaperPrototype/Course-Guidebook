@@ -38,6 +38,9 @@ Footnotes:
 - links to resources quoted or resources a guideline is based on. A general place to put resource links for further reading and research.
 
 # TODO
+- make separate guidelines for Intro courses and Outro courses
+    - currently almost all guidelines are are for Intro courses
+    - guidelines for intro and outro courses are mixed
+
 - One document containing first principles.
 - Another document containing conclusions built from first principles that can be used for teaching.
-- rename to "crux3D course guidelines"
