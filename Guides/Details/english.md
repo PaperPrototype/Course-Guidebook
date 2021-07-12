@@ -46,7 +46,7 @@ This is probably the most important part of teaching. Most courses or tutorials 
 ## DETAIL_GUIDELINE_003
 **INTRODUCE CONCEPTS, EXPECT BEGINNERS, EXPLAIN JARGON**
 
-When introducing a new concept don't use any jargon or techincal words. Instead use plain english and simple words. Try to be concise and waste as little time as possible by using pictures rather than trying to describe it! Make sure that it is well explained with physical examples. Don't be vague, and make sure that no reader is left scratching their heads. A short but sweet explanation with picutres that really hits the spot is worth taking the time to make (epecially for the student). You shouldn't sit there and write every word to be perfect because then your would never finish, so if you think of a better explanation or find a way to explain it that really makes sense, then go back and redo your explanation. This is something we highly value at Nanite3D. Once the student understand it, tell them the techinical name of the concept. (Make sure to add this concept and its jargon (technical word) to the Notes!) From then on use the jargon / technical word when explaining things. This way students learn words and vocab as they go through the lectures.
+When introducing a new concept don't use any jargon or techincal words. Instead use plain english and simple words. Try to be concise and waste as little time as possible by using pictures rather than trying to describe it! Make sure that it is well explained with physical examples. Don't be vague, and make sure that no reader is left scratching their heads. A short but sweet explanation with picutres that really hits the spot is worth taking the time to make (epecially for the student). You shouldn't sit there and write every word to be perfect because then your would never finish, so if you think of a better explanation or find a way to explain it that really makes sense, then go back and redo your explanation. Once the student understand it, tell them the techinical name of the concept. (Make sure to add this concept and its jargon (technical word) to the Notes!) From then on use the jargon / technical word when explaining things. This way students learn words and vocab as they go through the lectures.
 
 
 ## DETAIL_GUIDELINE_004
@@ -88,7 +88,7 @@ Every time you introduce a new concept add it to the notes. Be super concise and
 ## DETAIL_GUIDELINE_009
 **LEARN BY CONCEPT AND EXAMPLE**
 
-Don't try to pre-explain vague ideas or concepts, this will lose the students interest and focus. Instead explain things as you have use them in a physical example, and be thorough! Use diagrams and teach the concept before showing them the code. Then when they use the code it makes sense. This keeps students from getting bored. But also ensures they understand what you are teaching them.
+Don't try to pre-explain vague ideas or concepts, this will lose the students interest and focus. Instead explain things as you have use them in a physical example, and be thorough! Use diagrams and teach the concept before showing them the code. Then when they use the code it makes sense. This keeps students from getting bored or overwhelmed. But also ensures they understand what you are teaching them.
 
 
 ## DETAIL_GUIDELINE_010
