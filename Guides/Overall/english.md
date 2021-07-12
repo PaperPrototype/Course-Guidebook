@@ -91,15 +91,5 @@ I have yet to figure this out.
 If I link to a Wkipedia resource I find it good to contribute to it and make sure it is a not a bad or incorrect explanation, since, it's likely the student will be reading that WIkipedia article.
 
 
-# 
-Build concepts through analogy and examples. 
-
-The more solid the concept, the faster it will be understood. When I say "solid" I am refering to using an example to explain a concept.
-
-Also, the less technical jargon you use in the initial explanation, the faster it will be understood. You can then later explain the "correct" jargon that would be appropriate.
-
-When explaining something use previous concepts (aka analogy) to build newer concepts. For example, once the student knows what a variable is, you can explain what "parameters" are as "variables for a function".
-
-
 # Inspire students
 Most people who get into game development did so because of a video game they played. If we inspire our students with epic demos of some technology, it's likely they will want to make it. When they find out that there is a course on how to make it, my guess is, they ewil
