@@ -14,28 +14,9 @@ Crux3D courses are written in a blog-post style, with a few guidelines and restr
 
 
 # Repositiory Layout
-Making your first Course:
-- A landing starting point guide for those just starting out with teaching.
+The folder "Book" is mostly me ranting and other interesting (at least to me) stuff about teaching.
 
-Conclusions + Guides:
-- Overall:
-    - Overall course design and techniques
-- Details:
-    - Details and nitty gritty guidelines that will help you out
-- Teaching Workflow:
-    - A teaching workflow for outputting error free and well explained courses for students by having the teacher place themselves in the students shoes, to ensure no student is ever left "scratching their head" (AKA confused).
-
-First Principles:
-- Ongoing community and internally driven document for finding the first principles of teaching and learning. For the purpose of being able to prove or disprove guidelines, teaching techniques, and teaching workflows using first principles.
-
-Rules:
-- General rules, mostly obvious ones that every educator should follow.
-
-Course Types:
-- classification of courses and how each type is useful for different purposes.
-
-Footnotes:
-- links to resources quoted or resources a guideline is based on. A general place to put resource links for further reading and research.
+The folder "Guides" is the stuff you need to look at, it contains rules and guides on how to make / structure courses.
 
 # TODO
 - make separate guidelines for Intro courses and Outro courses
@@ -44,3 +25,8 @@ Footnotes:
 
 - One document containing first principles.
 - Another document containing conclusions built from first principles that can be used for teaching.
+
+Add to guidelines?
+- How you find soemthing is mroe interesting than the answer itself (box rotation vs sin roation)
+- don't over explain. Over explaining is the result of the intitial explanation failing to get the concept accross.
+- take students on journey to solve a problem (story's are easier to remember that individual obejcts. THis is because a story ties everyhting together into one big memory that is easy to access)

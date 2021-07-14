@@ -9,11 +9,13 @@ A knowledge course should be designed to teach a student concepts and then let t
 ### (Outro) Tutorial Course
 A tutorial course should teach the student how to make a large cool project like making a specific popular renderer, or making an AI physics system. These courses will inevitably have to teach some concepts, but currently it seems, that it would be better if these courses were to come after a knowledge course and simply apply what the student already knows and show them how to use it to make, for example, a planet using what they learned from an intro voxel systems course. As such, Tutorial courses must always have a pre-requisite knowledge course, or, another Tutorials course.
 
-Tutorial courses won't teach people much, so really we should make all of our courses knolwdeg courses. Then Intro's
+Tutorial courses won't teach people much, so really we should make all of our courses knowlegde courses.
 
 
 # Layout
 Knowlwdge courses should only teach the core. This makes them shorter and prevents having monolithic courses. This happened with [The Rust Book](https://doc.rust-lang.org/stable/book/). 
+
+Don't overwelhm the studetn with all the nuances, just teach them the concept, they can learn the nuances later.
 
 To solve this we create intro (or Knowledge) courses, that only teaches the core and simple stuff, nothing fancy, with side tutorials after each lecture to keep the student entertained with the knowledge they've learned, and satisfy their natural want for applying their newly aquired skill to some cool project (like making a small planet using voxels).
 
