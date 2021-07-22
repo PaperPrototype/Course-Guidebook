@@ -171,15 +171,19 @@ If ew jsut start using the vocab and the make a "vocab" section for each lecture
 
 Instead when intriducing a concept use the plain english example with analogous words, that can transition to the "correct" word easily.
 
-You can also include a synonym for a technical word (in parenthesis) to help the student better understand a new word. It is alsoa good idea to repet the technical words synonym a couple times and not expect the student to immediately be able to use the word. THis helps the student get used to using the word without overwhelming them.
+You can also include a synonym for a technical word (in parenthesis) to help the student better understand a new word. It is alsoa good idea to repet the technical words synonym a couple times and not expect the student to immediately be able to use the word. This helps the student get used to using the word without overwhelming them.
 
 In the notes of a lecture give all the vocabulary and their formal definition, as well as an explanation of the word. This helps the student when they forgot the meaning of a word. Also if you don't they will probably look it up on Google, which may give them the wrong definition of a word since, for example, the word "vertex" can also mean "	The highest point; the apex or summit." or "The highest point of the skull."
 
 
+## Concrete and in Context (no generic math!)
+When teaching a subject teach it in context of its application / use. This makes it more tangible and easier to grasp. 
+
+Abstract math equations lose peoples attention. They aren't learning anything new, and those euqtions are nice... but generally not useful.
+
+"the concrete is almost always easier to follow that the abstract" 
+-- https://www2.palomar.edu/users/jtagg/handbook/specific.htm
+
+
 ##
-USING NARRATIVE TOOLS
-
-We can motivate students to mentally finish an explanation or example by don't finish the explanations but leave out the *last step* and say something like "And if we kept doing this we would find Johnny"
-
-
-## 
+Start teaching with the end goal. Don't cover the elementary stuff in preparation from its future application, teach the elemetary stuff in the trenches as you are trying to achieve the end goal. As an example take a "Intro to Rendering" course. You state the objective as "how do we get 3D picture on a 2D screen?". Proceed to immediately start making a simple 3D renderer, then explain the dot product and use it. Then explain *basic vectors*, and use *basic vectors* to skew the world.

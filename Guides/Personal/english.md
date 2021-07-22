@@ -3,15 +3,18 @@ This is how the big picture for making courses and teaching subjects (this is no
 
 
 ## Teach in a first principles format
-When teaching I found that I was teaching through first principles argumentation.
+When teaching I found that I was teaching through first principles argumentation. 
 
-You will notice I tend to structure lectures as a question/problem to be solved. I then present the solution and the concept behind it using diagrams. Then I show you how to implement it. Then I show the why behind it occasionaly exposing some first principles.
+This is because when you are teaching you are "convincing the learners mind about how soemthing works" -- Me. If your mind can't connect the dots (aka be convinced) then you will have a hard time understanding something.
 
-I think this is how people naturally **want** to learn but I may be wrong. Why do it the way people "want" to learn? If we take it back to first principles and look at a baby... actually a toddler you will notice they always ask "Why". (<-- See what I did there! I answered the "why") Because I want the courses we make to be addicting and I want students who take our courses to find them "the path of least resistance", which will inevitably lead to them taking the courses.
+I think this is how people naturally **want** to learn but I may be wrong. Why do it the way people "want" to learn? If we take it back to first principles and look at a baby... actually a toddler you will notice they always ask "Why". (<-- See what I did there! I answered the "why") 
 
-When doing a tutorial or writing a course it is really good to review information even if the student "has already learned this in another course". This helps since a student may have forgotten that information and a student may have just decided tot skip the pre-requsites and dive right in. We are making courses for students, and so we should make the courses for wehat students need or tend to do, and not what students should have done or should do.
+# Review and Repetition makes it stick
+When doing a tutorial or writing a course it is really good to review information even if the student "has already learned this in another course". This helps since a student may have forgotten that information and a student may have just decided to skip the pre-requsites and dive right in. We are making courses for students, and so we should make the courses for what students tend to do, and not what students should have done.
 
-Reviewing stuff in the context of what you are teaching will grow a students understanding of something on that conctext rather than just the generic understanding. It also helps to review stuff as it further ensures nobody is left behind! I try to always add a comment with parenthesis "()" reminding a student of a concept we covered previously just in case they forgot.
+Even if the student does already understand something reviewing it in the context of what you are teaching will grow a students depth of understanding of it (in that conctext rather than just the general understanding). 
+
+It also helps to review stuff as it further ensures nobody is left behind! I try to always add a comment with parenthesis "()" reminding a student of a concept we covered previously just in case they forgot.
 
 We will be making this format the standard for every lecture / section / tutorial we make. You can make this more obvious by writing "problem/goal:" in front of the explenation of the problem/goal at hand. And then writing "solution:" in front of the explanation of the solution. Then writing "implementation:" in front of the implementation. Then "Why:" when explaning why you did something a certain way.
 
@@ -19,13 +22,14 @@ The order of ""question/problem, answer/solution/concept, implementation, and wh
 
 (I have yet to prove/figure out why this format for teaching is better than other formats)
 
+## The end goal is what they are here for!
+Start teaching with the end goal. Don't cover the elementary stuff in preparation from its future application, teach the elemetary stuff in the trenches as you are trying to achieve the end goal. This keeps peoples
+
+As an example take a "Intro to Rendering" course. You state the objective as "how do we get 3D picture on a 2D screen?". Proceed to immediately start making a simple 3D renderer, then explain the dot product and use it. Then explain *basic vectors*, and use *basic vectors* to skew the visuals being rendered.
+
 
 ## Use Informal Language
 Informal language is easier to understand and follow, and won't scare beginners away.
-
-
-## In context
-When teaching a subject teach it in context of its application / use. This makes it more tangible and easier to grasp.
 
 
 ## Teach the core so the student can explore its application
