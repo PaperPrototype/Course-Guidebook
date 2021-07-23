@@ -20,6 +20,12 @@ The folder "Guides" is the stuff you need to read, it contains rules and guides 
 
 files ending in `.md` are the stuff to read. Click on them to read them.
 
+Here are some quick links.
+
+[Guides](https://github.com/PaperPrototype/Course-Guidebook/blob/main/Guides/Guides/english.md)
+[Teaching Workflow](https://github.com/PaperPrototype/Course-Guidebook/blob/main/Guides/Teaching%20Workflow/english.md)
+[Personal methods](https://github.com/PaperPrototype/Course-Guidebook/blob/main/Guides/Personal/english.md)
+
 # TODO
 - make separate guidelines for Intro courses and Outro courses
     - currently almost all guidelines are are for Intro courses
