@@ -11,6 +11,14 @@ he then proceeds to answer the WHY behind his logic
 If a guideline is not clear or is redundant or hard to understand then we would love it if you make a new Issue so it can be fixed.
 
 
+## UNIVERSAL_GUIDELINE
+**Explain how something works, not how to use it**
+
+Explain how something works, not how to use it. This way it becomes obvious how you could make your own, for example, game engine.
+
+This is the most important thing to do when making courses. Make sure you do this. And if you don't know how that thing *really works* (how it connect together in the 0s and 1s or how the memory layout / datastructure is) then ask yourself "should I really be making a course on this?".
+
+
 ## DETAIL_GUIDELINE_000
 **WHY AM I LEARNING THIS? HOW IS THIS USEFUL TO ME?**
 
@@ -179,11 +187,7 @@ In the notes of a lecture give all the vocabulary and their formal definition, a
 ## Concrete and in Context (no generic math!)
 When teaching a subject teach it in context of its application / use. This makes it more tangible and easier to grasp. 
 
-Abstract math equations lose peoples attention. They aren't learning anything new, and those euqtions are nice... but generally not useful.
+Abstract math equations lose peoples attention. They aren't learning anything new, and those euquions are just reiterating what they already know in a more... generic form... but generally not useful form for programming.
 
 "the concrete is almost always easier to follow that the abstract" 
 -- https://www2.palomar.edu/users/jtagg/handbook/specific.htm
-
-
-##
-Start teaching with the end goal. Don't cover the elementary stuff in preparation from its future application, teach the elemetary stuff in the trenches as you are trying to achieve the end goal. As an example take a "Intro to Rendering" course. You state the objective as "how do we get 3D picture on a 2D screen?". Proceed to immediately start making a simple 3D renderer, then explain the dot product and use it. Then explain *basic vectors*, and use *basic vectors* to skew the world.
