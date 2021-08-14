@@ -2,29 +2,31 @@
 These guidlines are a set of problems students encounter when trying to learn, and the methods for teaching that prevent those problems. 
 They are also a result of frustrations the author(s) or students experienced during learning.
 
-"The mistake we are making in education is that the teacher do not explain why we are being taught a subject. You just sorta get dumped into math and like, well why am I learning math? Whats the point of this? I don't know why am being asked to do these strange problems." --Elon Musk [Elon Musk attacks the education system](https://www.youtube.com/watch?v=UVHPHNegJNc)
+"The mistake we are making in education is that the teachers do not explain why we are being taught a subject. You just sorta get dumped into math and like, well why am I learning math? Whats the point of this? I don't know why am being asked to do these strange problems." --Elon Musk [Elon Musk attacks the education system](https://www.youtube.com/watch?v=UVHPHNegJNc)
 
-he then proceeds to answer the WHY behind his logic 
+Elon then proceeds to answer the WHY behind his logic 
 
-"You know, the why of things is extremely important. Because our brain has evolved to discard information that it thinks has irrelevance."
+"You know, the why of things is extremely important. Because our brain has evolved to discard information that it thinks has irrelevant." -- Elon Musk
 
-If a guideline is not clear or is redundant or hard to understand then we would love it if you make a new Issue so it can be fixed.
-
-
-## UNIVERSAL_GUIDELINE
-**Explain how something works, not how to use it**
-
-Explain how something works, not how to use it. This way it becomes obvious how you could make your own, for example, game engine.
-
-This is the most important thing to do when making courses. Make sure you do this. And if you don't know how that thing *really works* (how it connect together in the 0s and 1s or how the memory layout / datastructure is) then ask yourself "should I really be making a course on this?".
+If you beleive that a guideline is not clear, or is redundant, or hard to understand, or you believe it is incorrect, then we would love it if you told us! Even experts (especially "experts") need corrected, science... doesn't necesarrily "evolve", we just learn new things that change how we look at things (at least thats what I could come up with as I wrote this XD).
 
 
 ## DETAIL_GUIDELINE_000
+**Explain how something works, not how to use it**
+
+Explain how something works, not how to *use it*. We want to be different than most courses, OUR teaching goal is for students to gain UNDERSTANDING of how things work, so that eventually you can make their own. By teaching this way it becomes obvious, to a student, how they could make their own... game engine (for example), and it also becomes obvious how to use the software (or tool).
+
+This is the most important thing to me when making a course! **Make sure you do this**, and if you don't know how the thing you are teaching is made (aka how it *really works*) then find out for yourself because that is what the wholoe point in a Crux courses is, to learn how something works, so that you can then make it yourself.
+
+If you don't know how that thing *really works* then ask yourself "should I really be making a course on this?". The answer may still be "yes"! Just make sure to revisit and re-write the course once you so understand how something works!
+
+
+## DETAIL_GUIDELINE_001
 **WHY AM I LEARNING THIS? HOW IS THIS USEFUL TO ME?**
 
-Make sure student knows why they are learning something and how it applies to their end goal. You can do this by teaching something in context of its application / use. Or teach in a way so that the student makes the mental connection as to why they need to know what you are teaching them.
+Make sure students know why they are learning something and how it applies to their end game / idea / goal. You can do this by teaching a bisics course in context of its application / use, and providing variant courses exploring specific areas of interest. Or teach in a way so that the student makes the mental connection as to why they need to know what you are teaching them <- this is very important!
 
-Don't just tell the student that they will need to know this information (which is what most books do) and then not explain any further. 
+Don't just tell the student that they will "need to know this information for later" (which is what most books do, annoyingly) and then not explain any further. instead take advantage of the opportunity and interest to explain to them how it works. Obviously you still need to consider the length and time you are adding to a course!
 
 For things that are complex that the student will not want to learn,make sure not to teach it in isolation. Instead teach it in the context of a cool small project, that they will find relevant. Also start with a simple naive example to get them warmed up, then once they understand the basics of it, show them how do the complex technique (that may have been boring and tedious id you had tried teaching it right off the bat).
 
@@ -37,7 +39,7 @@ The goal is to get the student to see the problems that the pioneers saw, and th
 ![Elon musk attacks the education system](https://www.youtube.com/watch?v=UVHPHNegJNc)
 
 
-## DETAIL_GUIDELINE_001
+## DETAIL_GUIDELINE_002
 **GIVE THE REASON FOR A DECISION**
 
 When you decide to do something make sure you give a reason. THis helps convince others of you decision and prevents you from making bad decisions because you are willing to question yourself. Again this also forces you to answer the why behind everything.
@@ -45,32 +47,32 @@ When you decide to do something make sure you give a reason. THis helps convince
 You will notice all of the guidlines here explain themselves and their reasons. This is a way of finding error through "first principles", always asking the why, until you find a fundamental truth about something. And then building on top of those fundamental concepts proving our concepts (or disproving them).
 
 
-## DETAIL_GUIDELINE_002
+## DETAIL_GUIDELINE_003
 **BE THROUGH AND DETAILED, INCREMENTALLY**
 
 This is probably the most important part of teaching. Most courses or tutorials I have found online like to skip over the a technique they are using, or just not fully flesh it out. It is super important that you understand every concept and bit of code, otherwise you won't be able to apply what you learned to your own projects (outside of the tutorials your not quite sure how to use it). I needed to be able to start with a super simple version of the technique and then work towards using it. If you teach something on its own, **and then** have them use alongside other stuff, they will already know how it works, so the other stuff doesn't overhelm them.
 
 
-## DETAIL_GUIDELINE_003
+## DETAIL_GUIDELINE_004
 **INTRODUCE CONCEPTS, EXPECT BEGINNERS, EXPLAIN JARGON**
 
 When introducing a new concept don't use any jargon or techincal words. Instead use plain english and simple words. Try to be concise and waste as little time as possible by using pictures rather than trying to describe it! Make sure that it is well explained with physical examples. Don't be vague, and make sure that no reader is left scratching their heads. A short but sweet explanation with picutres that really hits the spot is worth taking the time to make (epecially for the student). You shouldn't sit there and write every word to be perfect because then your would never finish, so if you think of a better explanation or find a way to explain it that really makes sense, then go back and redo your explanation. Once the student understand it, tell them the techinical name of the concept. (Make sure to add this concept and its jargon (technical word) to the Notes!) From then on use the jargon / technical word when explaining things. This way students learn words and vocab as they go through the lectures.
 
 
-## DETAIL_GUIDELINE_004
+## DETAIL_GUIDELINE_005
 **STUDENTS DON'T KNOW ANYTHING OUTSIDE OF PRE-REQUISITES**
 
 Don't expect students to know anything outside of the pre-requisite courses. If you are going to use an `IEnumerator` but `IEnumerator`'s are not explained in a pre-requisite course then take the time to explain them. This creates courses that are made for fast and optimized courses, because you learn information as you need it. This prevents from having to have long exhaustive pre-requisite courses that cover every possible thing you might need to know.
 
 At the same time this keeps with DETAIL_GUIDELINE_000, since the student will know "why" they are learning something, rather than shoving a ton of infromation that "they will need to know". Nobody likes to learn a ton of information "they will need to know", we natrually want the information to come as we need it, this is much funner and results in less time wasted.
 
-## DETAIL_GUIDELINE_005
+## DETAIL_GUIDELINE_006
 **JUST THE FACTS**
 
 No opinions. (If you want to explain your opinion then we highly recommend you make a blog post about it you can link to that blog post, try medium.com). Instead show both alternatives and working examples. This way the student see's technology and possiblility's, not potholes to be avoided.
 
 
-## DETAIL_GUIDELINE_006
+## DETAIL_GUIDELINE_007
 **SHORTER IS BETTER**
 
 When explaining a concept ask yourself these questions.
@@ -80,26 +82,27 @@ When explaining a concept ask yourself these questions.
  - Is this sentence hard to read? (If it is then plaese take the time to fix it!)
  You may rewrite a sentence several times but that is time saved for the student, as well as painful sentence structure that nobody wants to read.
 
+SHould I make this explanation extensive and highly detailed? I find the answer is a big fat "NO". Simple words well put along with a picture or diagram has ALWAYS been easier to understand, and faster to undertsand / read.
 
-## DETAIL_GUIDELINE_007
+## DETAIL_GUIDELINE_008
 **EXPERIENCE**
 
 As stated before opinions aren't necessarily useful. This is not true of experience. Experience is **very** useful, as it takes years to learn certain things. By adding things you;ve learned from exerpience to a course, you are advancing the student by however many years it took you to learn that. Relaying experience is important but keep it short. Also you can link to blog posts for lengthy or in depth advice / opions / experience. Try medium.com for blogging its free and... very awesome.
 
 
-## DETAIL_GUIDELINE_008
+## DETAIL_GUIDELINE_009
 **WRITE NOTES FOR STUDENTS**
 
 Every time you introduce a new concept add it to the notes. Be super concise and add shortened examples from the lecture. Notes are for those needing a refresher. Notes should use jargon (technical words), as long as they are defined in the Vocab section of the notes and were discussed during the lecture. Notes should also include all struct types and programming language keywords used and their usage and definitions and what those types do, or how those keywords affect stuff.
 
 
-## DETAIL_GUIDELINE_009
+## DETAIL_GUIDELINE_010
 **LEARN BY CONCEPT AND EXAMPLE**
 
 Don't try to pre-explain vague ideas or concepts, this will lose the students interest and focus. Instead explain things as you have use them in a physical example, and be thorough! Use diagrams and teach the concept before showing them the code. Then when they use the code it makes sense. This keeps students from getting bored or overwhelmed. But also ensures they understand what you are teaching them.
 
 
-## DETAIL_GUIDELINE_010
+## DETAIL_GUIDELINE_011
 **CODE SNIPPETS**
 
 Any code snippets shown need to be in context. It can be confusing when you don't tell the student where that snippet is supposed to go. Also make sure to add `// ... snipping irrelevant code ... //` where code that has already been written is. For example
@@ -124,21 +127,24 @@ can be confusing compared to
 The exception to the rule is when showing code that has already been shown, but that has only changed slightly.
 
 
-## DETAIL_GUIDELINE_011
+## DETAIL_GUIDELINE_012
 **USE ENGLISH AS THE STANDARD**
 
 When translating a course, use the english version as the standard for trnaslation. This is for a reason. English is taught in many schools. If your making a course in another language make sure to translate it into english. That way other trnaslations can be based on the english version.
 
 
-## DETAIL_GUIDELINE_012
+## DETAIL_GUIDELINE_013
 **USE PICTURES AND DIAGRAMS**
 
-A good diagram or picture can save you 2 pages worth of explaining. This is better for you and the student. And it improves the reading time for the student. 
+A good diagram or picture can save you 2 pages worth of explaining! This is better for you and the student. And it improves the reading time for the student. 
 
 Also simple diagrams are easy to understand (when explained), and are in most cases much easier to understand than purely written explanations.
 
+See also:
+- guideline 019
 
-## DETAIL_GUIDELINE_013
+
+## DETAIL_GUIDELINE_014
 **DON'T NAME IT TILL YOU'VE EXPLAINED IT**
 
 When you say something like "The magnitude of a vector is the length of the distance it covers relative to its coordinate space." Maybe you can see the problem. In describing the magnitude of a vector, for those who already know what the magnitude of a vector is, the explanation will make sense. But for a complete beginner you've essentially wasted your time.
@@ -154,7 +160,7 @@ Then after I've defined it I give it a name.
 (I actually re-wrote the explanation after having written this)
 
 
-## DETAIL_GUIDELINE_013
+## DETAIL_GUIDELINE_015
 **EXPLAIN THINGS WELL THE FIRST TIME**
 
 Don't sacrifice readability for correctness. When explaining something don't give the formal definition and then explain what that definition means. Instead take time to come up with a good explanation that expects no previous knowledge, explain like your telling your grandma. The idea is to prevent giving an explanation that doesn't make sense to a beginner for them to later understand it. This leads to demotivation "I don't understand" or "That made no sense to me".
@@ -164,13 +170,13 @@ The goal is to prevent the student from using something without understanding it
 When someone understands how something works, using it becomes trivial (AKA easy).
 
 
-## DETAIL_GUIDELINE_014
+## DETAIL_GUIDELINE_016
 **USE TUTORIALS NOT EXCERCISES**
 
 Only teach concepts in the lectures and leave the experimentation to the student and tutorials. If you include a section on "How to make a cool shader effect" with what the student has learned you're taking their time up for experimentation and making them do what you think would be cool. Instead if you think the student might want to do something cool with what they've learned create a tutorial that can be taken after the lecture is over.
 
 
-## DETAIL_GUIDELINE_015
+## DETAIL_GUIDELINE_017
 **HOW TO GRADUALLY INTRUDUCE VOCABULAR USED IN THE INDUSTRY**
 
 Since we are teaching lots of new concepts, we should also include vocabulary that the reader may not be aware of that may be used by other texts. 
@@ -184,10 +190,84 @@ You can also include a synonym for a technical word (in parenthesis) to help the
 In the notes of a lecture give all the vocabulary and their formal definition, as well as an explanation of the word. This helps the student when they forgot the meaning of a word. Also if you don't they will probably look it up on Google, which may give them the wrong definition of a word since, for example, the word "vertex" can also mean "	The highest point; the apex or summit." or "The highest point of the skull."
 
 
-## Concrete and in Context (no generic math!)
-When teaching a subject teach it in context of its application / use. This makes it more tangible and easier to grasp. 
+## DETAIL_GUIDELINE_018
+**CONCRETE + IN CONTEXT**
 
-Abstract math equations lose peoples attention. They aren't learning anything new, and those euquions are just reiterating what they already know in a more... generic form... but generally not useful form for programming.
+No generic math! or generic explanations
 
-"the concrete is almost always easier to follow that the abstract" 
+Teach subjects in the context of their application / use. This automatically shows the student how the abstract concept maps to real world use case. This is especially important to do when dealing with math. Using geometric objects to represents number amounts and math is often VERY helpful in solidifying a concept.
+
+Don't lie (yes "lie") to your student about how something works so that you don;t have to explain it. This will prevent them from knowing *why* something works. If they know how stuff works (*how it *really* works) then they are likely to make less mistakes by blindly accepting what you've told them! This is often called an "abstraction" and abstractions don;t give use concrete ideas for understanding how things work.
+
+(Also, abstract math equations lose peoples attention. They aren't learning anything new, and those euquions are just reiterating what they already know in a more... generic form... but generally hard to understand (and generally not useful for programming))
+
+"the concrete is almost always easier to follow than the abstract" 
 -- https://www2.palomar.edu/users/jtagg/handbook/specific.htm
+
+
+# DETAIL_GUIDELINE_019
+**CONNECT THE DOTS**
+
+Don't just teach some math subjects. If that math's end goal is to rotate objects into camera space, then show a visual explanation with the numbers and how they work. 
+
+An excellent example of this is Sebastian Leagues video explaining how AI works 
+
+TODO show link to sebastians video
+
+Make sure to connect the dots, and show the math and how it roates the objects using a sign wave (for example).
+
+You can also show the goal by saying a phrase that is very relatable to them "we will learn how a 3D picture can go onto a 2D screen".
+
+
+# DETAIL_GUIDELINE_020
+**VISUALS + WORDS**
+
+Visual + Auditory teaching = fastest learning**
+TODO
+- link to Veritasium YouTube video "The biggest myth in Education" video. Talks about how "learning styles" (according to education researchers) is not a thing.
+
+A book that teaches using only words may be helpful to someone with a very high reading comprehension.
+
+A book that uses only pictures will have trouble atatching words to concepts! It also becomes very hard to explain things without words!
+
+Thus, I believe, the best teaching methods use words for explanation, and pictures to solidif those concepts visually.
+
+
+# DETAIL_GUIDELINE_021
+**REPETITION**
+
+I find that the repetition of explaining something I've already explained is actually a good thing! The first time they read the explanation they might not get it, but the second time it just affirms what they are not sure about! 
+
+We are teaching **for the student** and not *for ourselves*, so I also think that expecting a student to have perfect understanding of algebra from highschool when explanating how to do 3D rendering, is ridiculous.
+
+As from guideline 1, some students may not even know why they need algebra! It would be best if we explained algebra as "many shortcuts, that don't break the answer!", and explain variables as "placeholders for a number". Then proceed to only show them the most useful algebra rules, and leave the rest to a referencial book they can read as they need it.
+
+You can also help students out by "hinting" back at previous concepts to connect the dots of what you are saying. Often when I use a new concept word (like the word "parameter") I hint at the word by adding a "hint" in parenthesis.
+
+(example)
+```
+We then gat the `a` parameter (aka, function variable) and add it to `b`...
+```
+
+I think this is way better than just expecting the studet from remeering everythting perfectly. It also saves the student having to look back a t previous lectures to remember what I am talking about.
+
+# DETAIL_GUIDELINE_022
+**IN PERSON STUDENT FEEDBACK**
+
+I made the mistake of trying to explain every single possible angle to everything! Like why we use the word "functions" in programming to refer to grouped code, stored inside of a keyword. I realized this was a mistake, the studetns were mulling (and very bored) reading over all these non-essential details. It was terrible!
+
+
+The 1# best tool for improving a course is sitting beside some ginuea pig sutdents and wathcing what the get stuck on, what is slowing them down... "is the course too long?". I plan to teach my online courses in person for free! simply becuase it imporves them so significantly, and "free" because the studetns are really ginuea pigs that I am testing my course on!
+
+I am forever indebted to those who sat through my horrifying first courses. They deserve a medal for their service, and I can never thank them enough!
+
+
+#
+
+never teach something "in depth"?
+define:
+- long explanations
+- in depth understanding, not useful up front?
+
+problem:
+- I just want to get started, but most courses are trying to teach me as if I hasd a whole month to spend on learning it
