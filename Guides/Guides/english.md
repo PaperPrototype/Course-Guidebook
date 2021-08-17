@@ -8,7 +8,41 @@ Elon then proceeds to answer the WHY behind his logic
 
 "You know, the why of things is extremely important. Because our brain has evolved to discard information that it thinks has irrelevant." -- Elon Musk
 
-If you beleive that a guideline is not clear, or is redundant, or hard to understand, or you believe it is incorrect, then we would love it if you told us! Even experts (especially "experts") need corrected, science... doesn't necesarrily "evolve", we just learn new things that change how we look at things (at least thats what I could come up with as I wrote this XD).
+
+If you beleive that a guideline is not clear, or is redundant, or hard to understand, or you believe it is incorrect, then we would love it if you convinced us of your perspective and why you think so! Even experts (especially "experts") are often just making "calculated guesses", science... doesn't necesarrily "evolve", we just learn new things that change how we look at things and ultimately our conclusions about them (at least thats what I could come up with as I wrote this XD). Although if we use first principles we can guarantee that the ideas we derive from those first principles are solidly (and always) true (given the the first principles are true).
+
+
+# TODOS
+These guides need to be condensed because some guides may be covering different perspectives of a fundentally same guide/principle. Use examples after guideline to show specific perspective on guideline. But initial guideline explanation should be a definiton. Then a reason for the guideline can be an example or summarized reasoning +  collection first principles that let to the guidelines conclusion.
+
+Format for condensing (This is to be done in the future after extensive guides have been added)
+- number (id (identifying) number for guideline, should not change)
+- title (one word guideline title)
+- guideline / description / overview (actual guideline explained, description. one shop stop for overview. overall of the examples)
+- reasons
+    - reason 1
+    - reason 2
+- examples (research. optional reading. extensive. dropdown menu for website to lessen scrolliong?)
+    - example 1
+    - example 2
+
+I've been trying to come up with a name for the teaching method I am developing., although its not much of a "method". Its more like a series of conclusions or "guides" for how to teach that are built using first principles reasoning (sat least they hould be), making them very solidly true and proven thanks to to the solidity of reasoning using first principles. 
+
+
+# First principles
+Scientists came up with first principles reasoning to sovle a problem. The problem was to understand quantum physics. In quantum physics we can't use light to "observe" the reactions (because quantum particels are smaller than light particles! thus light won't help us "see" the reactions), instead all we can see is the end result of some effect. As a result we can't gain "knowledge through experience" (empircal knowledge? I think is what its called), instead we have to use pure reasonig to figure things out and answer the why.
+
+We start by breaking things down by asking the why behind them, we keep asking why until there is a question that has no "why". The answer that couldn't be questioned (hence any question asked against the anser has no "why") is called a "first principle". A first principle is something that is always fundamentally true.
+
+We then build higher level ideas from those first principles. As long as the high level ideas only assume pure first principles, we can know that the high level idea will also always be true (liek the first principles are always true).
+
+This is called "frist principles reasoning" and was used to solve and understand quantum physics.
+
+Examples:
+- Example 1 
+    - One high level (example) idea you could can break down into irst principles is "old peoples senses are lesened as they age, but their brains don't" which can be derived from another idea "our brains were made to last much longer than our bodies (and senses)" which can be derived from "in the time of Adam and Eve humans lived almost 1 thousand (1000) years long" (this is if you are a christian like me), if you assume God is not real then we would have to find another first principle to prove the (weird) example above (I'm just trying to show you how to do first principles reasoning in practice / thought). You could actually try to prove God through first principles reasoning (I haven't tried this yet but it would be interesting).
+
+feel free to add to the examples.
 
 
 ## DETAIL_GUIDELINE_000
@@ -134,7 +168,7 @@ When translating a course, use the english version as the standard for trnaslati
 
 
 ## DETAIL_GUIDELINE_013
-**USE PICTURES AND DIAGRAMS**
+**USE PICTURES AND DIAGRAMS FOR VISAUL STUFF**
 
 A good diagram or picture can save you 2 pages worth of explaining! This is better for you and the student. And it improves the reading time for the student. 
 
@@ -251,6 +285,7 @@ We then gat the `a` parameter (aka, function variable) and add it to `b`...
 
 I think this is way better than just expecting the studet from remeering everythting perfectly. It also saves the student having to look back a t previous lectures to remember what I am talking about.
 
+
 # DETAIL_GUIDELINE_022
 **IN PERSON STUDENT FEEDBACK**
 
@@ -262,12 +297,50 @@ The 1# best tool for improving a course is sitting beside some ginuea pig sutden
 I am forever indebted to those who sat through my horrifying first courses. They deserve a medal for their service, and I can never thank them enough!
 
 
-#
+# DETAIL_GUIDELINE_023
+**EXAMPLE FIRST, THEN EXPLANATION**
+I've found that often we tend to explain things before we show people an example. By explaining first they (the student) don't even know what we are talking about (solidly in their brain they need an example). Once we show them an example they (the students) have to rack their brain from what we explained, to be able to understand the example.
+
+I found that The Rust Book does this a lot, and it was kinda annoying.
+
+I try to show examples first (get the gears spinning, and get them scratching their heads itshing for an explanation), then explain the example. I think this is more natrual for the student (although it seems it is not naturally something teachers do :/).
+
+
+# DETAIL_GUIDELINE_024
+**KEEP SCENARIOS SHORT AND SIMPLE, FOCUS ON THE CONCEPT**
+
+Complex scenarios not related to what the studetns cares abotu tend to kill their attention span.
+
+As I was reading The Rust Book I found that it is super annoying when it takes reading two whole paragraphs of explanaing the complex (theoretical) scenario just to teach you how to use code in that theoretical scenario. Make the scenario as simple and consice as possible, the goal is to understand how we can do somehting with some code, no one really cares about the example being used (especially theoretical ones).
+
+Instead just show them how to do something, *then* show them how that solves a certain problem (this is also consistent with guideline 023).
+
+Reasons:
+- KEEP SCENARIOS SHORT AND SIMPLE, FOCUS ON THE CONCEPT
+- Complex scenarios not related to what the studetns cares abotu tend to kill their attention span.
+
+# DETAIL_GUIDELINE_25
+**SOME THINGS NEED REALLY NEED PICTURES (ALSO... PLZ ADD MORE QUALITY PICURES / DIAGRAMS)**
+Some things should not be explained using words. Like how to tie a special knot (heck, that would be one messful of adverbs ? (I can't remember what the class of words thats stand for positions and relative relations ship (eg. "below", "above", "beside", "beneath")<- this should be kept in the text oncew I remember the classification word)).
+
+For things like this (that require lots of adverbs ?(can't remeber the grammar classification word)) we should use pictures, just skip the words. Obviously you will have to talk about it, but always use a picture with an rray when explaning them. 
+
+Using only words for these types of things... is a horror of mind bending guesswork as to what the teacher means, unless the teacher labeled things and showed you the picture as he explained it, in this case then it makes sense to use lots of words.
+
+See also:
+- guideline 013
+
+TODO (condensing)
+- probably needs to be used as an example for the "use pictures" 013 guideline
+
+# IDEAS TO THINK ABOUT / EXPLORE (For the authors)
 
 never teach something "in depth"?
 define:
 - long explanations
 - in depth understanding, not useful up front?
+- show them the high level, then let them explore its use cases (through many optional tutorials, each tutorial branching into its own interesting area). 
+- Tutorials afdter lecture use to explore specific areas of interest.
 
 problem:
 - I just want to get started, but most courses are trying to teach me as if I hasd a whole month to spend on learning it
