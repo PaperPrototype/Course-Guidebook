@@ -8,8 +8,9 @@ Elon then proceeds to answer the WHY behind his logic
 
 "You know, the why of things is extremely important. Because our brain has evolved to discard information that it thinks has irrelevant." -- Elon Musk
 
+If you believe that a guideline is not clear, or is redundant, or hard to understand, or you believe it is incorrect, then we would love it if you convinced us of your perspective and why you think so!
 
-If you beleive that a guideline is not clear, or is redundant, or hard to understand, or you believe it is incorrect, then we would love it if you convinced us of your perspective and why you think so! Even experts (especially "experts") are often just making "calculated guesses", science... doesn't necesarrily "evolve", we just learn new things that change how we look at things and ultimately our conclusions about them (at least thats what I could come up with as I wrote this XD). Although if we use first principles we can guarantee that the ideas we derive from those first principles are solidly (and always) true (given the the first principles are true).
+Although if we use first principles we can guarantee that the ideas we derive from those first principles are solidly (and always) true (given that the founding first principles are true).
 
 
 # TODOS
@@ -30,7 +31,7 @@ I've been trying to come up with a name for the teaching method I am developing.
 
 
 # First principles
-Scientists came up with first principles reasoning to sovle a problem. The problem was to understand quantum physics. In quantum physics we can't use light to "observe" the reactions (because quantum particels are smaller than light particles! thus light won't help us "see" the reactions), instead all we can see is the end result of some effect. As a result we can't gain "knowledge through experience" (empircal knowledge? I think is what its called), instead we have to use pure reasonig to figure things out and answer the why.
+Scientists came up with first principles reasoning to solve a problem. The problem was to understand quantum physics/quantum mechanics. In quantum physics we can't use light to "observe" the reactions (because quantum particles are smaller than light particles! thus light won't help us "see" the reactions), instead all we can see is the end result of some effect. As a result we can't gain "knowledge through experience" (empircal knowledge? I think is what its called), instead we have to use pure reasonig to figure things out and answer the why.
 
 We start by breaking things down by asking the why behind them, we keep asking why until there is a question that has no "why". The answer that couldn't be questioned (hence any question asked against the anser has no "why") is called a "first principle". A first principle is something that is always fundamentally true.
 
