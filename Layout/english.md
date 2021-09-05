@@ -38,13 +38,8 @@ We make sure to teach the student the more complex stuff and all the specifics i
 
 This keeps the intro (aka knolwedge) courses fresh, small, and easily finishable. Which sadly is **not** how THe Rust Book stayed.
 
-INFO: {
-    4342 5660 1026 3118
 
-    05/25
-
-    248
-}
+RANDOM STUFF OF MINE. Just ingore the below
 
 json format with types?
 - lightweight (compact less text)

@@ -36,13 +36,9 @@ We start by breaking things down by asking the why behind them, we keep asking w
 
 We then build higher level ideas from those first principles. As long as the high level ideas only assume pure first principles, we can know that the high level idea will also always be true (liek the first principles are always true).
 
-This is called "frist principles reasoning" and was used to solve and understand quantum physics.
+This is called "frist principles reasoning" and was used to solve and understand quantum physics. Heck, I bet we could use it to understand how time travel works!
 
-Examples:
-- Example 1 
-    - One high level (example) idea you could can break down into irst principles is "old peoples senses are lesened as they age, but their brains don't" which can be derived from another idea "our brains were made to last much longer than our bodies (and senses)" which can be derived from "in the time of Adam and Eve humans lived almost 1 thousand (1000) years long" (this is if you are a christian like me), if you assume God is not real then we would have to find another first principle to prove the (weird) example above (I'm just trying to show you how to do first principles reasoning in practice / thought). You could actually try to prove God through first principles reasoning (I haven't tried this yet but it would be interesting).
-
-feel free to add to the examples.
+Also I am in no way an export (I don't think you can even call me a beginner yet) when it comes to first principles reasoning. But, I am trying to spread the word because I think that first principles reasoning will be a very, very powerful tool for designing software. 
 
 
 ## DETAIL_GUIDELINE_000
@@ -109,14 +105,18 @@ No opinions. (If you want to explain your opinion then we highly recommend you m
 ## DETAIL_GUIDELINE_007
 **SHORTER IS BETTER**
 
+A course should not try to cover "as much as possible" but instead just teach the fundamentals really well, then leave exploration into specific areas to another course after the initial intro course, creating modular courses, that are not exhaustive, but pleasant short and sweet introductions that teach you well and let you explore your areas of interest.
+
+### an explanations should be short too
+"Should I make this explanation extensive and highly detailed?" I find the answer is a big fat "NO". Simple words put well, along with a picture or diagram, has ALWAYS been easier to understand, and faster to learn.
+
 When explaining a concept ask yourself these questions.
- - Will the student be using this information
+ - Will the student be using this information? Is it fundamentally useful for understanding how something works? If not then just leave it for later when they will find it interesting, we don't want to bore people, it'll mean less work for you plus a shroter course.
  - Is this the shortest simplest possible explenation, using pictures, that will get the concept accross and understood.
  - Am I babbling? Useless words put people to sleep.
- - Is this sentence hard to read? (If it is then plaese take the time to fix it!)
- You may rewrite a sentence several times but that is time saved for the student, as well as painful sentence structure that nobody wants to read.
+ - Is this sentence hard to read? (If it is then please take the time to fix it!)
+ You may rewrite a sentence several times, but that is time saved for the student (as well as painful reading).
 
-SHould I make this explanation extensive and highly detailed? I find the answer is a big fat "NO". Simple words well put along with a picture or diagram has ALWAYS been easier to understand, and faster to undertsand / read.
 
 ## DETAIL_GUIDELINE_008
 **EXPERIENCE**
@@ -208,6 +208,8 @@ When someone understands how something works, using it becomes trivial (AKA easy
 **USE TUTORIALS NOT EXCERCISES**
 
 Only teach concepts in the lectures and leave the experimentation to the student and tutorials. If you include a section on "How to make a cool shader effect" with what the student has learned you're taking their time up for experimentation and making them do what you think would be cool. Instead if you think the student might want to do something cool with what they've learned create a tutorial that can be taken after the lecture is over.
+
+Tutorials can also be for teaching additional non-cannon related subjects of interest.
 
 
 ## DETAIL_GUIDELINE_017
@@ -344,3 +346,4 @@ define:
 
 problem:
 - I just want to get started, but most courses are trying to teach me as if I hasd a whole month to spend on learning it
+
