@@ -136,31 +136,85 @@ Every time you introduce a new concept add it to the notes. Be super concise and
 
 Don't try to pre-explain vague ideas or concepts, this will lose the students interest and focus. Instead explain things as you have use them in a physical example, and be thorough! Use diagrams and teach the concept before showing them the code. Then when they use the code it makes sense. This keeps students from getting bored or overwhelmed. But also ensures they understand what you are teaching them.
 
+#  DETAIL_GUIDELINE_11
+**CODE SNIPPETS (WHAT CODE DO I NEED TO CHANGE?)**
+Often a student won't know if you are showing them an example, or if they are supposed to change their code to yours.
 
-## DETAIL_GUIDELINE_011
-**CODE SNIPPETS**
-
-Any code snippets shown need to be in context. It can be confusing when you don't tell the student where that snippet is supposed to go. Also make sure to add `// ... snipping irrelevant code ... //` where code that has already been written is. For example
-
+(example)
 ```
-        m_vertices = new NativeArray<Vector3>(24 * Data.chunkSize * Data.chunkSize * Data.chunkSize / 2, Allocator.Temp);
-        m_triangles = new NativeArray<int>(36 * Data.chunkSize * Data.chunkSize * Data.chunkSize / 2, Allocator.Temp);
+this is an example
 ```
 
-can be confusing compared to 
-
+(change your code to the following)
 ```
-    private void Start()
-    {
-        m_vertices = new NativeArray<Vector3>(24 * Data.chunkSize * Data.chunkSize * Data.chunkSize / 2, Allocator.Temp);
-        m_triangles = new NativeArray<int>(36 * Data.chunkSize * Data.chunkSize * Data.chunkSize / 2, Allocator.Temp);
-    
-        // ... snipping irrelevant code ... //
-    }
+this is what your code should look like
 ```
 
-The exception to the rule is when showing code that has already been shown, but that has only changed slightly.
+When working on a large codebase its important that any code snippets shown is in context. It can be confusing when you don't tell the student where that snippet is supposed to go!
 
+(for example)
+```py
+    # draw a cube
+	pyxel.rect(self.x, self.y, self.x + 10, self.y + 10, 11)
+
+	# sandy ground
+	pyxel.rect(0, pyxel.height - 10, pyxel.width, pyxel.height, 40)
+```
+
+## Method 1
+You can improve by showing the surrounding code/function the snippet is in, and it helps to add a comment like `// ... snipping irrelevant code ...` where code that is unchanged is (to help shorten the code being shown).
+
+(for example)
+```py
+# ... snipping irrelevant code ...
+
+class Game():
+	# ... snipping irrelevant code ...
+
+	def draw(self):
+		pyxel.cls(12)
+
+		# draw a cube
+		pyxel.rect(self.x, self.y, self.x + 10, self.y + 10, 11)
+
+		# sandy ground
+		pyxel.rect(0, pyxel.height - 10, pyxel.width, pyxel.height, 40)
+
+# "make" the Game object
+Game()
+```
+
+The exception to the rule is when showing code that has already been shown, but that has only changed slightly. In that case adding `// ... snipping irrelevant code ... //` might make the code less readable. And I might recommend solution 2.
+
+## Method 2
+Only put comments on the changed or new code. You can point out to them "I will put comments on changed or new code", also by just being consistent they will find your patterns.
+
+(example)
+```py
+import pyxel
+
+class Game():
+	x = 10
+	y = 10
+
+	def update(self):
+		if pyxel.btnp(pyxel.KEY_Q):
+			pyxel.quit()
+
+	def draw(self):
+		pyxel.cls(12)
+
+		# draw a cube
+		pyxel.rect(self.x, self.y, self.x + 10, self.y + 10, 11)
+
+		# sandy ground
+		pyxel.rect(0, pyxel.height - 10, pyxel.width, pyxel.height, 40)
+
+# "make" the Game object
+Game()
+```
+
+You can kinda notice the new lines of code, by looking for the comments. This solution is better suited for small pieces of code, and for beginners, who tend to just want to copy paste all the code.
 
 ## DETAIL_GUIDELINE_012
 **USE ENGLISH AS THE STANDARD**
@@ -322,16 +376,24 @@ Reasons:
 - KEEP SCENARIOS SHORT AND SIMPLE, FOCUS ON THE CONCEPT
 - Complex scenarios not related to what the studetns cares abotu tend to kill their attention span.
 
+
 # DETAIL_GUIDELINE_25
 **SOME THINGS NEED REALLY NEED PICTURES (ALSO... PLZ ADD MORE QUALITY PICURES / DIAGRAMS)**
-Some things should not be explained using words. Like how to tie a special knot (heck, that would be one messful of adverbs ? (I can't remember what the class of words thats stand for positions and relative relations ship (eg. "below", "above", "beside", "beneath")<- this should be kept in the text oncew I remember the classification word)).
+Some things should not be explained using words. Like how to tie a special knot (heck, that would be one messful of words.
 
-For things like this (that require lots of adverbs ?(can't remeber the grammar classification word)) we should use pictures, just skip the words. Obviously you will have to talk about it, but always use a picture with an rray when explaning them. 
+For things like this (that would require some very messy wording) we should use pictures, just skip the words. Obviously you will have to do some explaining, but always use a picture when explaning them. 
 
 Using only words for these types of things... is a horror of mind bending guesswork as to what the teacher means, unless the teacher labeled things and showed you the picture as he explained it, in this case then it makes sense to use lots of words.
 
 See also:
 - guideline 013
+
+
+# DETAIL_GUIDELINE_26
+**THE WHY BEHIND THE FINAL DESIGN**
+Some courses giude you through making a perfected well made project. THe problem is studetns don't know why the final design was made the way it was. They won't understand elegance of the problems it solves. So I always start by making the most naive simple implementation, help the student understand its limits, then guide them through making a version 2 in the next section.
+
+Designing a course like this completely avoid's the problem of a student not knowing why they are writing code in a specific design (they'll feel like your wasting their time, even if you explain to them "this will REALLY save you effort later").
 
 TODO (condensing)
 - probably needs to be used as an example for the "use pictures" 013 guideline
