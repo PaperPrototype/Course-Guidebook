@@ -11,7 +11,7 @@ A personal apology from me (the author) for all the "we" and making it sound lik
 Crux3D courses are written in a blog-post style, with a few guidelines and restrictions layed out in these documents.
 
 # Repositiory Layout
-The folder "The Rant" is mostly me ranting and other non-essential stuff.
+The folder "Book" is mostly me ranting and other non-essential stuff.
 
 The folder "Guides" is the stuff you need to read! It contains rules and guides on how to make / structure courses.
 
